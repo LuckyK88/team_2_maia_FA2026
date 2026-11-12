@@ -1,0 +1,1281 @@
+Year,Round,Race,Session,Session_Type,Driver,Team,Charge,Other_Car,Outcome,Time_Penalty_Seconds,Penalty
+2020,2,Austria,Q,Qualifying,Lewis Hamilton,Mercedes,Yellow Flag Infringement,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2020,2,Austria,R,Race,Sergio Perez,Racing Point,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2020,2,Austria,R,Race,Lewis Hamilton,Mercedes,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2020,2,Austria,R,Race,Kimi Raikkonen,Alfa Romeo,Unsafe Release,0,Fine,0.0,Fine
+2020,3,Styria,Q,Qualifying,Sergio Perez,Racing Point,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2020,3,Styria,Q,Qualifying,Kimi Raikkonen,Alfa Romeo,Red Flag Infringement,0,No Further Action,0.0,No Further Action
+2020,3,Styria,Q,Qualifying,Charles Leclerc,Ferrari,Red Flag Infringement,0,No Further Action,0.0,No Further Action
+2020,3,Styria,FP1,Practice,Lando Norris,McLaren,Yellow Flag Infringement,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2020,3,Styria,Q,Qualifying,Charles Leclerc,Ferrari,Impeding,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2020,3,Styria,R,Race,Lance Stroll,Racing Point,Forcing Another Car Off the Track,1,No Further Action,0.0,No Further Action
+2020,4,Hungary,R,Race,Alexander Albon,Red Bull,Starting Grid Infringement,0,No Further Action,0.0,No Further Action
+2020,4,Hungary,Q,Qualifying,Carlos Sainz,McLaren,Impeding,1,No Further Action,0.0,No Further Action
+2020,4,Hungary,R,Race,Kimi Raikkonen,Alfa Romeo,Incorrect Starting Position,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2020,4,Hungary,R,Race,Nicholas Latifi,Williams,Unsafe Release,1,Time Penalty,5.0,5s Penalty
+2020,4,Hungary,R,Race,Romain Grosjean,Haas,Use of Driver Aid During Formation Lap,0,Time Penalty,10.0,10s Penalty
+2020,4,Hungary,R,Race,Kevin Magnussen,Haas,Use of Driver Aid During Formation Lap,0,Time Penalty,10.0,10s Penalty
+2020,5,Great Britain,FP1,Practice,Antonio Giovinazzi,Alfa Romeo,Continuing in Unsafe Condition,0,Warning,0.0,Warning/Reprimand
+2020,5,Great Britain,Q,Qualifying,Charles Leclerc,Ferrari,Unsafe Release,0,No Further Action,0.0,No Further Action
+2020,5,Great Britain,Q,Qualifying,Esteban Ocon,Renault,Impeding,1,No Further Action,0.0,No Further Action
+2020,5,Great Britain,Q,Qualifying,Lance Stroll,Racing Point,Unsafe Release,0,No Further Action,0.0,No Further Action
+2020,5,Great Britain,Q,Qualifying,George Russell,Williams,Yellow Flag Infringement,0,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2020,5,Great Britain,R,Race,Alexander Albon,Red Bull,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2020,5,Great Britain,R,Race,Antonio Giovinazzi,Alfa Romeo,Safety Car Infringement,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2020,5,Great Britain,R,Race,Romain Grosjean,Haas,Driving Erratically,1,Warning,0.0,Warning/Reprimand
+2020,6,Anniversary,FP2,Practice,Charles Leclerc,Ferrari,Pit Lane Speeding,0,Fine,0.0,Fine
+2020,6,Anniversary,Q,Qualifying,Esteban Ocon,Renault,Impeding,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2020,6,Anniversary,R,Race,Kevin Magnussen,Haas,Leaving the Track and Rejoining Unsafely,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2020,6,Anniversary,R,Race,Lance Stroll,Racing Point,Technical Infringement,0,Reprimand,0.0,Warning/Reprimand
+2020,6,Anniversary,R,Race,Nico Hulkenberg,Racing Point,Technical Infringement,0,Reprimand,0.0,Warning/Reprimand
+2020,7,Spain,R,Race,Sergio Perez,Racing Point,Blue Flag Infringement,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2020,7,Spain,FP3,Practice,Kevin Magnussen,Haas,Causing a Collision,1,No Further Action,0.0,No Further Action
+2020,7,Spain,FP3,Practice,Esteban Ocon,Renault,Causing a Collision,1,No Further Action,0.0,No Further Action
+2020,7,Spain,Q,Qualifying,Daniil Kvyat,AlphaTauri,Impeding,1,Warning,0.0,Warning/Reprimand
+2020,7,Spain,R,Race,Antonio Giovinazzi,Alfa Romeo,Forcing Another Car Off the Track,1,No Further Action,0.0,No Further Action
+2020,7,Spain,R,Race,Daniil Kvyat,AlphaTauri,Blue Flag Infringement,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2020,7,Spain,R,Race,Lance Stroll,Racing Point,Technical Infringement,0,Reprimand,0.0,Warning/Reprimand
+2020,7,Spain,R,Race,Sergio Perez,Racing Point,Technical Infringement,0,Reprimand,0.0,Warning/Reprimand
+2020,8,Belgium,FP3,Practice,Sergio Perez,Racing Point,Impeding,1,Warning,0.0,Warning/Reprimand
+2020,8,Belgium,Pre-Race,Pre-Race,Charles Leclerc,Ferrari,Driving Unnecessarily Slowly,0,No Further Action,0.0,No Further Action
+2020,8,Belgium,R,Race,Lance Stroll,Racing Point,Technical Infringement,0,Reprimand,0.0,Warning/Reprimand
+2020,9,Italy,FP3,Practice,Nicholas Latifi,Williams,Driving Unnecessarily Slowly,0,No Further Action,0.0,No Further Action
+2020,9,Italy,FP3,Practice,Romain Grosjean,Haas,Driving Unnecessarily Slowly,0,No Further Action,0.0,No Further Action
+2020,9,Italy,FP3,Practice,Pierre Gasly,AlphaTauri,Driving Unnecessarily Slowly,0,No Further Action,0.0,No Further Action
+2020,9,Italy,FP3,Practice,Sergio Perez,Racing Point,Driving Unnecessarily Slowly,0,No Further Action,0.0,No Further Action
+2020,9,Italy,FP3,Practice,Lance Stroll,Racing Point,Driving Unnecessarily Slowly,0,No Further Action,0.0,No Further Action
+2020,9,Italy,FP3,Practice,Alexander Albon,Red Bull,Driving Unnecessarily Slowly,0,No Further Action,0.0,No Further Action
+2020,9,Italy,R,Race,Lando Norris,McLaren,Driving Unnecessarily Slowly,0,No Further Action,0.0,No Further Action
+2020,9,Italy,R,Race,Esteban Ocon,Renault,Driving Unnecessarily Slowly,0,No Further Action,0.0,No Further Action
+2020,9,Italy,R,Race,Max Verstappen,Red Bull,Causing a Collision,1,No Further Action,0.0,No Further Action
+2020,9,Italy,FP3,Practice,Carlos Sainz,McLaren,Driving Unnecessarily Slowly,0,No Further Action,0.0,No Further Action
+2020,9,Italy,FP1,Practice,Daniil Kvyat,AlphaTauri,Pit Lane Speeding,0,Fine,0.0,Fine
+2020,9,Italy,Q,Qualifying,Esteban Ocon,Renault,Causing a Collision,1,No Further Action,0.0,No Further Action
+2020,9,Italy,R,Race,Alexander Albon,Red Bull,Causing a Collision,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2020,9,Italy,R,Race,Lewis Hamilton,Mercedes,Pit Lane Infringement,0,"10 Second Stop and Go, Penalty Points",0.0,Drive Through/Stop-Go/DSQ
+2020,9,Italy,R,Race,Antonio Giovinazzi,Alfa Romeo,Pit Lane Infringement,0,"10 Second Stop and Go, Penalty Points",0.0,Drive Through/Stop-Go/DSQ
+2020,9,Italy,R,Race,Lance Stroll,Racing Point,Technical Infringement,0,Reprimand,0.0,Warning/Reprimand
+2020,9,Italy,R,Race,Sergio Perez,Racing Point,Technical Infringement,0,Reprimand,0.0,Warning/Reprimand
+2020,10,Tuscany,R,Race,Kimi Raikkonen,Alfa Romeo,Causing a Collision,1,No Further Action,0.0,No Further Action
+2020,10,Tuscany,R,Race,Romain Grosjean,Haas,Causing a Collision,1,No Further Action,0.0,No Further Action
+2020,10,Tuscany,R,Race,Pierre Gasly,AlphaTauri,Causing a Collision,1,No Further Action,0.0,No Further Action
+2020,10,Tuscany,R,Race,Max Verstappen,Red Bull,Causing a Collision,1,No Further Action,0.0,No Further Action
+2020,10,Tuscany,FP1,Practice,Nicholas Latifi,Williams,Pit Lane Speeding,0,Fine,0.0,Fine
+2020,10,Tuscany,FP1,Practice,Lance Stroll,Racing Point,Pit Lane Speeding,0,Fine,0.0,Fine
+2020,10,Tuscany,FP2,Practice,Charles Leclerc,Ferrari,Pit Lane Speeding,0,Fine,0.0,Fine
+2020,10,Tuscany,FP2,Practice,Pierre Gasly,AlphaTauri,Pit Lane Speeding,0,Fine,0.0,Fine
+2020,10,Tuscany,FP2,Practice,Sergio Perez,Racing Point,Causing a Collision,0,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2020,10,Tuscany,R,Race,Kimi Raikkonen,Alfa Romeo,Pit Lane Infringement,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2020,10,Tuscany,R,Race,Kevin Magnussen,Haas,Restart Infringement,0,Warning,0.0,Warning/Reprimand
+2020,10,Tuscany,R,Race,Daniil Kvyat,AlphaTauri,Restart Infringement,0,Warning,0.0,Warning/Reprimand
+2020,10,Tuscany,R,Race,Nicholas Latifi,Williams,Restart Infringement,0,Warning,0.0,Warning/Reprimand
+2020,10,Tuscany,R,Race,Alexander Albon,Red Bull,Restart Infringement,0,Warning,0.0,Warning/Reprimand
+2020,10,Tuscany,R,Race,Lance Stroll,Racing Point,Restart Infringement,0,Warning,0.0,Warning/Reprimand
+2020,10,Tuscany,R,Race,Daniel Ricciardo,Renault,Restart Infringement,0,Warning,0.0,Warning/Reprimand
+2020,10,Tuscany,R,Race,Sergio Perez,Racing Point,Restart Infringement,0,Warning,0.0,Warning/Reprimand
+2020,10,Tuscany,R,Race,Lando Norris,McLaren,Restart Infringement,0,Warning,0.0,Warning/Reprimand
+2020,10,Tuscany,R,Race,Esteban Ocon,Renault,Restart Infringement,0,Warning,0.0,Warning/Reprimand
+2020,10,Tuscany,R,Race,George Russell,Williams,Restart Infringement,0,Warning,0.0,Warning/Reprimand
+2020,10,Tuscany,R,Race,Antonio Giovinazzi,Alfa Romeo,Restart Infringement,0,Warning,0.0,Warning/Reprimand
+2020,10,Tuscany,R,Race,Lance Stroll,Racing Point,Technical Infringement,0,No Further Action,0.0,No Further Action
+2020,10,Tuscany,R,Race,Sergio Perez,Racing Point,Technical Infringement,0,No Further Action,0.0,No Further Action
+2020,10,Tuscany,R,Race,Carlos Sainz,McLaren,Restart Infringement,0,Warning,0.0,Warning/Reprimand
+2020,11,Russia,FP3,Practice,Kimi Raikkonen,Alfa Romeo,Pit Lane Speeding,0,Fine,0.0,Fine
+2020,11,Russia,FP3,Practice,Max Verstappen,Red Bull,Pit Lane Speeding,0,Fine,0.0,Fine
+2020,11,Russia,R,Race,Lewis Hamilton,Mercedes,Practice Start Infringement,0,Time Penalty,5.0,5s Penalty
+2020,11,Russia,R,Race,Daniel Ricciardo,Renault,Failure to Follow Race Director Instructions,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2020,11,Russia,R,Race,Alexander Albon,Red Bull,Failure to Follow Race Director Instructions,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2020,11,Russia,R,Race,Romain Grosjean,Haas,Failure to Follow Race Director Instructions,0,No Further Action,0.0,No Further Action
+2020,11,Russia,Q,Qualifying,Romain Grosjean,Haas,Failure to Follow Race Director Instructions,0,No Further Action,0.0,No Further Action
+2020,11,Russia,Q,Qualifying,Lewis Hamilton,Mercedes,Failure to Follow Race Director Instructions,0,No Further Action,0.0,No Further Action
+2020,11,Russia,R,Race,Sergio Perez,Racing Point,Technical Infringement,0,No Further Action,0.0,No Further Action
+2020,11,Russia,R,Race,Lance Stroll,Racing Point,Technical Infringement,0,No Further Action,0.0,No Further Action
+2020,11,Russia,Q,Qualifying,Nicholas Latifi,Williams,Failure to Follow Race Director Instructions,0,No Further Action,0.0,No Further Action
+2020,12,France,R,Race,Kimi Raikkonen,Alfa Romeo,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2020,12,France,R,Race,Alexander Albon,Red Bull,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2020,13,Portugal,FP1,Practice,Kimi Raikkonen,Alfa Romeo,Pit Lane Speeding,0,Fine,0.0,Fine
+2020,13,Portugal,FP2,Practice,Lance Stroll,Racing Point,Causing a Collision,1,No Further Action,0.0,No Further Action
+2020,13,Portugal,FP2,Practice,Max Verstappen,Red Bull,Causing a Collision,1,No Further Action,0.0,No Further Action
+2020,13,Portugal,FP2,Practice,Daniel Ricciardo,Renault,Tyre Procedure Infringement,0,Warning,0.0,Warning/Reprimand
+2020,13,Portugal,FP3,Practice,George Russell,Williams,Pit Lane Infringement,0,Warning,0.0,Warning/Reprimand
+2020,13,Portugal,Q,Qualifying,Sergio Perez,Racing Point,Impeding,1,Reprimand,0.0,Warning/Reprimand
+2020,13,Portugal,R,Race,Lance Stroll,Racing Point,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2020,13,Portugal,R,Race,Lance Stroll,Racing Point,Track Limits Violations,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2020,13,Portugal,R,Race,Romain Grosjean,Haas,Track Limits Violations,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2020,13,Portugal,R,Race,Daniil Kvyat,AlphaTauri,Blue Flag Infringement,0,No Further Action,0.0,No Further Action
+2020,13,Portugal,R,Race,Daniil Kvyat,AlphaTauri,Track Limits Violations,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2020,13,Portugal,R,Race,Sergio Perez,Racing Point,Dangerous Driving,0,Reprimand,0.0,Warning/Reprimand
+2020,14,Imola,FP1,Practice,Sergio Perez,Racing Point,Pit Lane Speeding,0,Fine,0.0,Fine
+2020,14,Imola,R,Race,Sebastian Vettel,Ferrari,Causing a Collision,1,No Further Action,0.0,No Further Action
+2020,14,Imola,FP1,Practice,Carlos Sainz,McLaren,Pit Lane Speeding,0,Fine,0.0,Fine
+2020,14,Imola,R,Race,Romain Grosjean,Haas,Track Limits Violations,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2020,15,Turkey,FP1,Practice,Charles Leclerc,Ferrari,Pit Lane Speeding,0,Fine,0.0,Fine
+2020,15,Turkey,Q,Qualifying,Carlos Sainz,McLaren,Impeding,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2020,15,Turkey,Q,Qualifying,Lando Norris,McLaren,Yellow Flag Infringement,0,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2020,15,Turkey,Q,Qualifying,Lance Stroll,Racing Point,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2020,15,Turkey,Q,Qualifying,George Russell,Williams,Yellow Flag Infringement,0,Grid Penalty,0.0,Grid Penalty
+2020,15,Turkey,R,Race,Kevin Magnussen,Haas,Unsafe Release,0,No Further Action,0.0,No Further Action
+2020,15,Turkey,R,Race,Max Verstappen,Red Bull,Pit Lane Infringement,0,No Further Action,0.0,No Further Action
+2020,16,Bahrain,FP2,Practice,Esteban Ocon,Renault,Pit Lane Speeding,0,Fine,0.0,Fine
+2020,16,Bahrain,FP2,Practice,Kimi Raikkonen,Alfa Romeo,Pit Lane Speeding,0,Fine,0.0,Fine
+2020,16,Bahrain,R,Race,Daniil Kvyat,AlphaTauri,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2020,17,Sakhir,R,Race,Charles Leclerc,Ferrari,Causing a Collision,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2020,17,Sakhir,R,Race,George Russell,Mercedes,Tyre Procedure Infringement,0,Fine,0.0,Fine
+2020,18,Abu Dhabi,FP2,Practice,Kevin Magnussen,Haas,Practice Start Infringement,0,Reprimand,0.0,Warning/Reprimand
+2020,18,Abu Dhabi,Q,Qualifying,Nicholas Latifi,Williams,Unsafe Release,0,No Further Action,0.0,No Further Action
+2020,18,Abu Dhabi,R,Race,Carlos Sainz,McLaren,Driving Unnecessarily Slowly,0,No Further Action,0.0,No Further Action
+2021,1,Bahrain,Q,Qualifying,Sebastian Vettel,Aston Martin,Yellow Flag Infringement,0,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2021,1,Bahrain,Q,Qualifying,Esteban Ocon,Alpine,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2021,1,Bahrain,Q,Qualifying,Lance Stroll,Aston Martin,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2021,1,Bahrain,Q,Qualifying,Sebastian Vettel,Aston Martin,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2021,1,Bahrain,Q,Qualifying,George Russell,Williams,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2021,1,Bahrain,R,Race,Sebastian Vettel,Aston Martin,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2021,2,Imola,FP3,Practice,Yuki Tsunoda,AlphaTauri,Pit Lane Speeding,0,Fine,0.0,Fine
+2021,2,Imola,FP1,Practice,Sergio Perez,Red Bull,Causing a Collision,1,No Further Action,0.0,No Further Action
+2021,2,Imola,FP1,Practice,Esteban Ocon,Alpine,Causing a Collision,1,No Further Action,0.0,No Further Action
+2021,2,Imola,FP3,Practice,Pierre Gasly,AlphaTauri,Red Flag Infringement,0,No Further Action,0.0,No Further Action
+2021,2,Imola,R,Race,George Russell,Williams,Causing a Collision,1,No Further Action,0.0,No Further Action
+2021,2,Imola,Q,Qualifying,Lance Stroll,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2021,2,Imola,R,Race,Sergio Perez,Red Bull,Safety Car Infringement,0,"Time Penalty, Penalty Points",10.0,10s Penalty
+2021,2,Imola,R,Race,Sebastian Vettel,Aston Martin,Tyre Procedure Infringement,0,10 Second Stop and Go,0.0,Drive Through/Stop-Go/DSQ
+2021,2,Imola,R,Race,Yuki Tsunoda,AlphaTauri,Track Limits Violations,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2021,2,Imola,R,Race,Lance Stroll,Aston Martin,Leaving the Track and Gaining an Advantage,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2021,2,Imola,R,Race,Kimi Raikkonen,Alfa Romeo,Rolling Start Infringement,0,10 Second Stop and Go,0.0,Drive Through/Stop-Go/DSQ
+2021,3,Portugal,R,Race,Nikita Mazepin,Haas,Blue Flag Infringement,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2021,4,Spain,Q,Qualifying,Nikita Mazepin,Haas,Impeding,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2021,4,Spain,R,Race,Fernando Alonso,Alpine,Forcing Another Car Off the Track,1,No Further Action,0.0,No Further Action
+2021,4,Spain,R,Race,Lance Stroll,Aston Martin,Forcing Another Car Off the Track,1,No Further Action,0.0,No Further Action
+2021,4,Spain,R,Race,Pierre Gasly,AlphaTauri,Incorrect Starting Position,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2021,5,Monaco,R,Race,Lance Stroll,Aston Martin,Pit Lane Infringement,0,No Further Action,0.0,No Further Action
+2021,5,Monaco,FP1,Practice,Daniel Ricciardo,McLaren,Pit Lane Speeding,0,Fine,0.0,Fine
+2021,6,Azerbaijan,FP2,Practice,Sergio Perez,Red Bull,Pit Lane Speeding,0,Fine,0.0,Fine
+2021,6,Azerbaijan,Q,Qualifying,Lando Norris,McLaren,Red Flag Infringement,0,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2021,6,Azerbaijan,R,Race,Nicholas Latifi,Williams,Safety Car Infringement,0,"10 Second Stop and Go, Penalty Points",0.0,Drive Through/Stop-Go/DSQ
+2021,7,Turkey,Q,Qualifying,Fernando Alonso,Alpine,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2021,7,Turkey,R,Race,Pierre Gasly,AlphaTauri,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2021,7,Turkey,R,Race,Fernando Alonso,Alpine,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2021,8,France,Q,Qualifying,Kimi Raikkonen,Alfa Romeo,Pit Lane Speeding,0,Fine,0.0,Fine
+2021,8,France,FP1,Practice,Sergio Perez,Red Bull,Pit Lane Speeding,0,Fine,0.0,Fine
+2021,9,Austria,FP2,Practice,Kimi Raikkonen,Alfa Romeo,Pit Lane Speeding,0,Fine,0.0,Fine
+2021,9,Austria,FP3,Practice,Esteban Ocon,Alpine,Pit Lane Speeding,0,Fine,0.0,Fine
+2021,9,Austria,Q,Qualifying,Sebastian Vettel,Aston Martin,Impeding,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2021,9,Austria,R,Race,Antonio Giovinazzi,Alfa Romeo,Safety Car Infringement,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2021,9,Austria,R,Race,Lando Norris,McLaren,Forcing Another Car Off the Track,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2021,9,Austria,R,Race,Yuki Tsunoda,AlphaTauri,Pit Lane Infringement,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2021,9,Austria,R,Race,Sergio Perez,Red Bull,Forcing Another Car Off the Track,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2021,9,Austria,R,Race,Lance Stroll,Aston Martin,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2021,9,Austria,R,Race,Kimi Raikkonen,Alfa Romeo,Causing a Collision,0,"Drive Through Penalty, Penalty Points",0.0,Drive Through/Stop-Go/DSQ
+2021,9,Austria,Q,Qualifying,Valtteri Bottas,Mercedes,Driving Unnecessarily Slowly,0,No Further Action,0.0,No Further Action
+2021,9,Austria,Q,Qualifying,Carlos Sainz,Ferrari,Driving Unnecessarily Slowly,0,No Further Action,0.0,No Further Action
+2021,9,Austria,R,Race,George Russell,Williams,Driving Erratically,1,No Further Action,0.0,No Further Action
+2021,9,Austria,R,Race,Sergio Perez,Red Bull,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2021,9,Austria,R,Race,Carlos Sainz,Ferrari,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2021,9,Austria,R,Race,Charles Leclerc,Ferrari,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2021,9,Austria,R,Race,Antonio Giovinazzi,Alfa Romeo,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2021,9,Austria,R,Race,Daniel Ricciardo,McLaren,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2021,9,Austria,R,Race,Pierre Gasly,AlphaTauri,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2021,9,Austria,R,Race,Nikita Mazepin,Haas,Yellow Flag Infringement,0,"10 Second Stop and Go, Penalty Points",0.0,Drive Through/Stop-Go/DSQ
+2021,9,Austria,R,Race,Nicholas Latifi,Williams,Yellow Flag Infringement,0,"10 Second Stop and Go, Penalty Points",0.0,Drive Through/Stop-Go/DSQ
+2021,10,Great Britain,SQ,Qualifying,George Russell,Williams,Causing a Collision,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2021,10,Great Britain,SQ,Qualifying,Carlos Sainz,Ferrari,Leaving the Track and Rejoining Unsafely,1,No Further Action,0.0,No Further Action
+2021,10,Great Britain,R,Race,Sergio Perez,Red Bull,Causing a Collision,1,No Further Action,0.0,No Further Action
+2021,10,Great Britain,R,Race,Lewis Hamilton,Mercedes,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2021,11,Hungary,FP3,Practice,Antonio Giovinazzi,Alfa Romeo,Unsafe Release,1,Fine,0.0,Fine
+2021,11,Hungary,FP3,Practice,Antonio Giovinazzi,Alfa Romeo,Impeding,1,Reprimand,0.0,Warning/Reprimand
+2021,11,Hungary,R,Race,Antonio Giovinazzi,Alfa Romeo,Pit Lane Speeding,0,10 Second Stop and Go,0.0,Drive Through/Stop-Go/DSQ
+2021,11,Hungary,R,Race,Valtteri Bottas,Mercedes,Causing a Collision,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2021,11,Hungary,R,Race,Lance Stroll,Aston Martin,Causing a Collision,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2021,11,Hungary,R,Race,Kimi Raikkonen,Alfa Romeo,Unsafe Release,1,Time Penalty,10.0,10s Penalty
+2021,11,Hungary,R,Race,Valtteri Bottas,Mercedes,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2021,11,Hungary,R,Race,Lance Stroll,Aston Martin,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2021,11,Hungary,R,Race,Sebastian Vettel,Aston Martin,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2021,11,Hungary,R,Race,Carlos Sainz,Ferrari,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2021,11,Hungary,R,Race,Esteban Ocon,Alpine,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2021,11,Hungary,R,Race,Sebastian Vettel,Aston Martin,Failure to Provide Fuel Sample,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2021,13,Netherlands,FP1,Practice,Esteban Ocon,Alpine,Forcing Another Car Off the Track,1,Warning,0.0,Warning/Reprimand
+2021,13,Netherlands,FP2,Practice,Max Verstappen,Red Bull,Red Flag Infringement,1,No Further Action,0.0,No Further Action
+2021,13,Netherlands,Q,Qualifying,Mick Schumacher,Haas,Impeding,1,No Further Action,0.0,No Further Action
+2021,13,Netherlands,Q,Qualifying,Nikita Mazepin,Haas,Impeding,1,No Further Action,0.0,No Further Action
+2021,13,Netherlands,R,Race,George Russell,Williams,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2021,14,Italy,Q,Qualifying,Sebastian Vettel,Aston Martin,Unsafe Release,1,Fine,0.0,Fine
+2021,14,Italy,Q,Qualifying,Esteban Ocon,Alpine,Unsafe Release,1,Fine,0.0,Fine
+2021,14,Italy,FP2,Practice,Nikita Mazepin,Haas,Pit Lane Speeding,0,Fine,0.0,Fine
+2021,14,Italy,Q,Qualifying,Nikita Mazepin,Haas,Impeding,1,No Further Action,0.0,No Further Action
+2021,14,Italy,R,Race,Antonio Giovinazzi,Alfa Romeo,Leaving the Track and Rejoining Unsafely,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2021,14,Italy,R,Race,Esteban Ocon,Alpine,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2021,14,Italy,R,Race,Sergio Perez,Red Bull,Leaving the Track and Gaining an Advantage,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2021,14,Italy,R,Race,Nikita Mazepin,Haas,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2021,14,Italy,R,Race,Max Verstappen,Red Bull,Causing a Collision,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2021,14,Italy,R,Race,Lance Stroll,Aston Martin,Yellow Flag Infringement,0,Warning,0.0,Warning/Reprimand
+2021,15,Russia,FP2,Practice,Nikita Mazepin,Haas,Pit Lane Speeding,0,Fine,0.0,Fine
+2021,15,Russia,FP2,Practice,Kimi Raikkonen,Alfa Romeo,Pit Lane Speeding,0,Fine,0.0,Fine
+2021,15,Russia,Q,Qualifying,Daniel Ricciardo,McLaren,Impeding,1,Reprimand,0.0,Warning/Reprimand
+2021,15,Russia,R,Race,Lance Stroll,Aston Martin,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2021,15,Russia,R,Race,Lando Norris,McLaren,Pit Lane Infringement,0,Reprimand,0.0,Warning/Reprimand
+2021,16,Turkey,Q,Qualifying,Fernando Alonso,Alpine,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2021,16,Turkey,R,Race,Pierre Gasly,AlphaTauri,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2021,16,Turkey,R,Race,Fernando Alonso,Alpine,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2021,17,United States,FP1,Practice,Mick Schumacher,Haas,Causing a Collision,1,No Further Action,0.0,No Further Action
+2021,17,United States,FP1,Practice,Sergio Perez,Red Bull,Causing a Collision,1,No Further Action,0.0,No Further Action
+2021,18,Mexico,FP1,Practice,Lewis Hamilton,Mercedes,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2021,18,Mexico,FP1,Practice,Kimi Raikkonen,Alfa Romeo,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2021,18,Mexico,FP2,Practice,Nikita Mazepin,Haas,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2021,18,Mexico,Q,Qualifying,Nicholas Latifi,Williams,Pit Lane Infringement,0,No Further Action,0.0,No Further Action
+2021,18,Mexico,Q,Qualifying,George Russell,Williams,Pit Lane Infringement,0,No Further Action,0.0,No Further Action
+2021,18,Mexico,Q,Qualifying,Kimi Raikkonen,Alfa Romeo,Pit Lane Infringement,0,Reprimand,0.0,Warning/Reprimand
+2021,18,Mexico,R,Race,Kimi Raikkonen,Alfa Romeo,Pit Lane Speeding,0,Fine,0.0,Fine
+2021,19,Brazil,Q,Qualifying,Max Verstappen,Red Bull,Parc Ferme Infringement,0,Fine,0.0,Fine
+2021,19,Brazil,Q,Qualifying,Lewis Hamilton,Mercedes,Technical Infringement,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2021,19,Brazil,R,Race,Yuki Tsunoda,AlphaTauri,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2021,19,Brazil,R,Race,Lewis Hamilton,Mercedes,Technical Infringement,0,Reprimand,0.0,Warning/Reprimand
+2021,20,Qatar,Q,Qualifying,Carlos Sainz,Ferrari,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2021,20,Qatar,FP2,Practice,Charles Leclerc,Ferrari,Pit Lane Speeding,0,Fine,0.0,Fine
+2021,20,Qatar,Q,Qualifying,Valtteri Bottas,Mercedes,Yellow Flag Infringement,0,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2021,20,Qatar,Q,Qualifying,Max Verstappen,Red Bull,Yellow Flag Infringement,0,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2021,21,Saudi Arabia,FP3,Practice,Lewis Hamilton,Mercedes,Impeding,1,"Reprimand, Fine",0.0,Fine
+2021,21,Saudi Arabia,FP3,Practice,Lewis Hamilton,Mercedes,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2021,21,Saudi Arabia,Q,Qualifying,Pierre Gasly,AlphaTauri,Impeding,1,Warning,0.0,Warning/Reprimand
+2021,21,Saudi Arabia,R,Race,Sergio Perez,Red Bull,Causing a Collision,1,No Further Action,0.0,No Further Action
+2021,21,Saudi Arabia,R,Race,Yuki Tsunoda,AlphaTauri,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2021,21,Saudi Arabia,R,Race,Max Verstappen,Red Bull,Leaving the Track and Gaining an Advantage,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2021,21,Saudi Arabia,R,Race,Max Verstappen,Red Bull,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2021,22,Abu Dhabi,FP2,Practice,Sebastian Vettel,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2021,22,Abu Dhabi,Q,Qualifying,Esteban Ocon,Alpine,Impeding,1,"Reprimand, Fine",0.0,Fine
+2021,22,Abu Dhabi,Q,Qualifying,Daniel Ricciardo,McLaren,Impeding,1,No Further Action,0.0,No Further Action
+2021,22,Abu Dhabi,Q,Qualifying,Sebastian Vettel,Aston Martin,Impeding,1,No Further Action,0.0,No Further Action
+2022,1,Bahrain,FP2,Practice,Yuki Tsunoda,AlphaTauri,Impeding,1,Reprimand,0.0,Warning/Reprimand
+2022,1,Bahrain,FP2,Practice,Lance Stroll,Aston Martin,Impeding,1,Reprimand,0.0,Warning/Reprimand
+2022,1,Bahrain,R,Race,Lance Stroll,Aston Martin,Forcing Another Car Off the Track,1,No Further Action,0.0,No Further Action
+2022,1,Bahrain,FP3,Practice,Carlos Sainz,Ferrari,Unsafe Release,1,Reprimand,0.0,Warning/Reprimand
+2022,1,Bahrain,R,Race,Esteban Ocon,Alpine,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,2,Saudi Arabia,FP1,Practice,Alexander Albon,Williams,Impeding,1,Reprimand,0.0,Warning/Reprimand
+2022,2,Saudi Arabia,Q,Qualifying,Alexander Albon,Williams,Unsafe Release,0,No Further Action,0.0,No Further Action
+2022,2,Saudi Arabia,Q,Qualifying,Daniel Ricciardo,McLaren,Impeding,1,"Grid Penalty, Fine, Penalty Points",0.0,Grid Penalty
+2022,2,Saudi Arabia,Q,Qualifying,Kevin Magnussen,Haas,Unsafe Release,0,No Further Action,0.0,No Further Action
+2022,2,Saudi Arabia,R,Race,Zhou Guanyu,Alfa Romeo,Leaving the Track and Gaining an Advantage,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,2,Saudi Arabia,R,Race,Zhou Guanyu,Alfa Romeo,Failure to Serve Penalty,0,Drive through penalty,0.0,Drive Through/Stop-Go/DSQ
+2022,2,Saudi Arabia,R,Race,Alexander Albon,Williams,Causing a Collision,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2022,3,Australia,FP1,Practice,Carlos Sainz,Ferrari,Impeding,1,Reprimand,0.0,Warning/Reprimand
+2022,3,Australia,FP2,Practice,Yuki Tsunoda,AlphaTauri,Impeding,1,Reprimand,0.0,Warning/Reprimand
+2022,3,Australia,FP1,Practice,Sebastian Vettel,Aston Martin,Technical Infringement,0,Fine,0.0,Fine
+2022,3,Australia,Q,Qualifying,Sebastian Vettel,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,3,Australia,Q,Qualifying,Lance Stroll,Aston Martin,Causing a Collision,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2022,3,Australia,Q,Qualifying,Alexander Albon,Williams,Technical Infringement,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2022,3,Australia,Q,Qualifying,Yuki Tsunoda,AlphaTauri,Driving Unnecessarily Slowly,0,Reprimand,0.0,Warning/Reprimand
+2022,3,Australia,FP1,Practice,Lance Stroll,Aston Martin,Impeding,1,No Further Action,0.0,No Further Action
+2022,3,Australia,FP2,Practice,Lance Stroll,Aston Martin,Impeding,1,No Further Action,0.0,No Further Action
+2022,3,Australia,FP2,Practice,Lewis Hamilton,Mercedes,Impeding,1,No Further Action,0.0,No Further Action
+2022,3,Australia,Q,Qualifying,Sergio Perez,Red Bull,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2022,3,Australia,Q,Qualifying,Charles Leclerc,Ferrari,Driving Unnecessarily Slowly,0,No Further Action,0.0,No Further Action
+2022,3,Australia,Q,Qualifying,Zhou Guanyu,Alfa Romeo,Driving Unnecessarily Slowly,0,No Further Action,0.0,No Further Action
+2022,3,Australia,R,Race,Mick Schumacher,Haas,Safety Car Infringement,1,No Further Action,0.0,No Further Action
+2022,3,Australia,R,Race,Pierre Gasly,AlphaTauri,Safety Car Infringement,1,No Further Action,0.0,No Further Action
+2022,3,Australia,R,Race,Yuki Tsunoda,AlphaTauri,Safety Car Infringement,1,No Further Action,0.0,No Further Action
+2022,3,Australia,R,Race,Kevin Magnussen,Haas,Forcing Another Car Off the Track,1,No Further Action,0.0,No Further Action
+2022,3,Australia,R,Race,Lance Stroll,Aston Martin,Driving Erratically,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,4,Imola,Q,Qualifying,Lance Stroll,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,4,Imola,R,Race,Esteban Ocon,Alpine,Unsafe Release,1,Time Penalty,5.0,5s Penalty
+2022,5,Miami,FP1,Practice,Alexander Albon,Williams,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,5,Miami,FP1,Practice,Esteban Ocon,Alpine,Unsafe Release,1,Reprimand,0.0,Warning/Reprimand
+2022,5,Miami,FP1,Practice,Daniel Ricciardo,McLaren,Impeding,1,No Further Action,0.0,No Further Action
+2022,5,Miami,R,Race,Kevin Magnussen,Haas,Causing a Collision,1,No Further Action,0.0,No Further Action
+2022,5,Miami,R,Race,Lance Stroll,Aston Martin,Causing a Collision,1,No Further Action,0.0,No Further Action
+2022,5,Miami,R,Race,Fernando Alonso,Alpine,Leaving the Track and Gaining an Advantage,1,No Further Action,0.0,No Further Action
+2022,5,Miami,R,Race,Sebastian Vettel,Aston Martin,Causing a Collision,1,No Further Action,0.0,No Further Action
+2022,5,Miami,R,Race,Mick Schumacher,Haas,Causing a Collision,1,No Further Action,0.0,No Further Action
+2022,5,Miami,FP3,Practice,Daniel Ricciardo,McLaren,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2022,5,Miami,R,Race,Fernando Alonso,Alpine,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,5,Miami,R,Race,Daniel Ricciardo,McLaren,Leaving the Track and Gaining an Advantage,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,5,Miami,R,Race,Kevin Magnussen,Haas,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,5,Miami,R,Race,Fernando Alonso,Alpine,Leaving the Track and Gaining an Advantage,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,6,Spain,FP1,Practice,Fernando Alonso,Alpine,Impeding,1,Reprimand,0.0,Warning/Reprimand
+2022,6,Spain,FP2,Practice,Alexander Albon,Williams,Impeding,1,No Further Action,0.0,No Further Action
+2022,6,Spain,FP1,Practice,Juri Vips,Red Bull,Impeding,1,Reprimand,0.0,Warning/Reprimand
+2022,6,Spain,Q,Qualifying,Lance Stroll,Aston Martin,Unsafe Release,1,Fine,0.0,Fine
+2022,6,Spain,Q,Qualifying,Kevin Magnussen,Haas,Driving Unnecessarily Slowly,0,Warning,0.0,Warning/Reprimand
+2022,6,Spain,Q,Qualifying,Mick Schumacher,Haas,Driving Unnecessarily Slowly,0,Warning,0.0,Warning/Reprimand
+2022,6,Spain,R,Race,Pierre Gasly,AlphaTauri,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,6,Spain,R,Race,Alexander Albon,Williams,Track Limits Violations,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,7,Monaco,FP1,Practice,Sergio Perez,Red Bull,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,7,Monaco,FP1,Practice,Valtteri Bottas,Alfa Romeo,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,7,Monaco,FP2,Practice,Yuki Tsunoda,AlphaTauri,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,7,Monaco,FP2,Practice,Yuki Tsunoda,AlphaTauri,Impeding,1,Reprimand,0.0,Warning/Reprimand
+2022,7,Monaco,FP3,Practice,Carlos Sainz,Ferrari,Impeding,1,"Reprimand, Fine",0.0,Fine
+2022,7,Monaco,FP3,Practice,Zhou Guanyu,Alfa Romeo,Impeding,1,"Warning, Fine",0.0,Fine
+2022,7,Monaco,Q,Qualifying,Sebastian Vettel,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,7,Monaco,FP3,Practice,Sergio Perez,Red Bull,Impeding,1,"Warning, Fine",0.0,Fine
+2022,7,Monaco,R,Race,Alexander Albon,Williams,Leaving the Track and Gaining an Advantage,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,7,Monaco,R,Race,Esteban Ocon,Alpine,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,8,Azerbaijan,R,Race,Nicholas Latifi,Williams,Incorrect Starting Position,0,10 second stop and go penalty,0.0,Drive Through/Stop-Go/DSQ
+2022,8,Azerbaijan,Q,Qualifying,Mick Schumacher,Haas,Pit Lane Infringement,0,No Further Action,0.0,No Further Action
+2022,8,Azerbaijan,Q,Qualifying,Kevin Magnussen,Haas,Pit Lane Infringement,0,No Further Action,0.0,No Further Action
+2022,8,Azerbaijan,Q,Qualifying,Lewis Hamilton,Mercedes,Driving Unnecessarily Slowly,0,No Further Action,0.0,No Further Action
+2022,8,Azerbaijan,Q,Qualifying,Lando Norris,McLaren,Driving Unnecessarily Slowly,0,No Further Action,0.0,No Further Action
+2022,8,Azerbaijan,R,Race,Nicholas Latifi,Williams,Blue Flag Infringement,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,9,Canada,FP1,Practice,Pierre Gasly,AlphaTauri,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,9,Canada,FP2,Practice,Sebastian Vettel,Aston Martin,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2022,9,Canada,FP2,Practice,Lance Stroll,Aston Martin,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2022,9,Canada,FP1,Practice,Sebastian Vettel,Aston Martin,Unsafe Release,1,Fine,0.0,Fine
+2022,9,Canada,Q,Qualifying,Carlos Sainz,Ferrari,Driving Unnecessarily Slowly,0,No Further Action,0.0,No Further Action
+2022,9,Canada,Q,Qualifying,Alexander Albon,Williams,Driving Unnecessarily Slowly,0,No Further Action,0.0,No Further Action
+2022,9,Canada,Q,Qualifying,Charles Leclerc,Ferrari,Driving Unnecessarily Slowly,0,No Further Action,0.0,No Further Action
+2022,9,Canada,R,Race,Sebastian Vettel,Aston Martin,Safety Car Infringement,0,No Further Action,0.0,No Further Action
+2022,9,Canada,Q,Qualifying,Pierre Gasly,AlphaTauri,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2022,9,Canada,Q,Qualifying,Zhou Guanyu,Alfa Romeo,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2022,9,Canada,R,Race,Yuki Tsunoda,AlphaTauri,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,9,Canada,R,Race,Lando Norris,McLaren,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2022,9,Canada,R,Race,Fernando Alonso,Alpine,Driving Erratically,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,10,Great Britain,R,Race,Yuki Tsunoda,AlphaTauri,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,11,Austria,FP1,Practice,Valtteri Bottas,Alfa Romeo,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,11,Austria,Q,Qualifying,George Russell,Mercedes,Crossing the Track without Permission,0,Warning,0.0,Warning/Reprimand
+2022,11,Austria,Q,Qualifying,Sergio Perez,Red Bull,Track Limits Violations,0,Lap time deleted,0.0,Warning/Reprimand
+2022,11,Austria,S,Sprint,Alexander Albon,Williams,Forcing Another Car Off the Track,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,11,Austria,R,Race,George Russell,Mercedes,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,11,Austria,R,Race,Pierre Gasly,AlphaTauri,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,11,Austria,R,Race,Pierre Gasly,AlphaTauri,Track Limits Violations,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,11,Austria,R,Race,Lando Norris,McLaren,Track Limits Violations,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,11,Austria,R,Race,Sebastian Vettel,Aston Martin,Track Limits Violations,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,11,Austria,R,Race,Zhou Guanyu,Alfa Romeo,Track Limits Violations,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,11,Austria,R,Race,Lewis Hamilton,Mercedes,Parc Ferme Infringement,0,No Further Action,0.0,No Further Action
+2022,11,Austria,Pre-Race,Pre-Race,Mick Schumacher,Haas,Radio Communication,0,No Further Action,0.0,No Further Action
+2022,11,Austria,Pre-Race,Pre-Race,Daniel Ricciardo,McLaren,Radio Communication,0,No Further Action,0.0,No Further Action
+2022,11,Austria,Pre-Race,Pre-Race,George Russell,Mercedes,Radio Communication,0,No Further Action,0.0,No Further Action
+2022,11,Austria,Pre-Race,Pre-Race,Esteban Ocon,Alpine,Radio Communication,0,No Further Action,0.0,No Further Action
+2022,11,Austria,Pre-Race,Pre-Race,Sergio Perez,Red Bull,Radio Communication,0,No Further Action,0.0,No Further Action
+2022,11,Austria,Pre-Race,Pre-Race,Lance Stroll,Aston Martin,Radio Communication,0,No Further Action,0.0,No Further Action
+2022,11,Austria,Pre-Race,Pre-Race,Sebastian Vettel,Aston Martin,Radio Communication,0,No Further Action,0.0,No Further Action
+2022,11,Austria,R,Race,Fernando Alonso,Alpine,Unsafe Release,0,No Further Action,0.0,No Further Action
+2022,12,France,FP3,Practice,Pierre Gasly,AlphaTauri,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,12,France,FP3,Practice,Lando Norris,McLaren,Impeding,1,No Further Action,0.0,No Further Action
+2022,12,France,R,Race,Nicholas Latifi,Williams,Causing a Collision,1,No Further Action,0.0,No Further Action
+2022,12,France,R,Race,Kevin Magnussen,Haas,Causing a Collision,1,No Further Action,0.0,No Further Action
+2022,12,France,R,Race,Carlos Sainz,Ferrari,Unsafe Release,1,Time Penalty,5.0,5s Penalty
+2022,12,France,R,Race,Zhou Guanyu,Alfa Romeo,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,12,France,R,Race,Esteban Ocon,Alpine,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,13,Hungary,Q,Qualifying,Alexander Albon,Williams,Tyre Procedure Infringement,0,Fine,0.0,Fine
+2022,13,Hungary,R,Race,Zhou Guanyu,Alfa Romeo,Leaving the Track and Gaining an Advantage,1,No Further Action,0.0,No Further Action
+2022,13,Hungary,R,Race,Daniel Ricciardo,McLaren,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,14,Belgium,FP2,Practice,Max Verstappen,Red Bull,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2022,14,Belgium,R,Race,Pierre Gasly,AlphaTauri,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,14,Belgium,R,Race,Lewis Hamilton,Mercedes,Refusal to Visit Medical Center,0,Warning,0.0,Warning/Reprimand
+2022,14,Belgium,R,Race,Charles Leclerc,Ferrari,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2022,15,Netherlands,Q,Qualifying,Nicholas Latifi,Williams,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,15,Netherlands,Q,Qualifying,Valtteri Bottas,Alfa Romeo,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,15,Netherlands,Q,Qualifying,Lando Norris,McLaren,Unsafe Release,1,Fine,0.0,Fine
+2022,15,Netherlands,R,Race,Zhou Guanyu,Alfa Romeo,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2022,15,Netherlands,R,Race,Sebastian Vettel,Aston Martin,Blue Flag Infringement,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,15,Netherlands,R,Race,Sergio Perez,Red Bull,Pit Lane Infringement,0,No Further Action,0.0,No Further Action
+2022,15,Netherlands,R,Race,Carlos Sainz,Ferrari,Pit Lane Infringement,0,No Further Action,0.0,No Further Action
+2022,15,Netherlands,R,Race,Carlos Sainz,Ferrari,Unsafe Release,1,Time Penalty,5.0,5s Penalty
+2022,15,Netherlands,R,Race,Yuki Tsunoda,AlphaTauri,Continuing in Unsafe Condition,0,Reprimand,0.0,Warning/Reprimand
+2022,16,Italy,FP2,Practice,Yuki Tsunoda,AlphaTauri,Yellow Flag Infringement,0,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2022,16,Italy,FP3,Practice,Carlos Sainz,Ferrari,Driving Unnecessarily Slowly,0,Reprimand,0.0,Warning/Reprimand
+2022,16,Italy,R,Race,Kevin Magnussen,Haas,Leaving the Track and Gaining an Advantage,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,16,Italy,R,Race,Nyck de Vries,Williams,Driving Erratically,0,Reprimand,0.0,Warning/Reprimand
+2022,17,Singapore,FP1,Practice,Valtteri Bottas,Alfa Romeo,Tyre Procedure Infringement,0,Fine,0.0,Fine
+2022,17,Singapore,FP1,Practice,Zhou Guanyu,Alfa Romeo,Tyre Procedure Infringement,0,Fine,0.0,Fine
+2022,17,Singapore,FP3,Practice,Mick Schumacher,Haas,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,17,Singapore,FP3,Practice,Kevin Magnussen,Haas,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,17,Singapore,R,Race,George Russell,Mercedes,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,17,Singapore,R,Race,Nicholas Latifi,Williams,Causing a Collision,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2022,17,Singapore,R,Race,Sergio Perez,Red Bull,Safety Car Infringement,0,Reprimand,0.0,Warning/Reprimand
+2022,17,Singapore,R,Race,Sergio Perez,Red Bull,Safety Car Infringement,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,18,Japan,FP1,Practice,Valtteri Bottas,Alfa Romeo,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,18,Japan,FP3,Practice,Alexander Albon,Williams,Tyre Procedure Infringement,0,Fine,0.0,Fine
+2022,18,Japan,Q,Qualifying,Max Verstappen,Red Bull,Causing a Collision,1,Reprimand,0.0,Warning/Reprimand
+2022,18,Japan,R,Race,Charles Leclerc,Ferrari,Leaving the Track and Gaining an Advantage,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,18,Japan,R,Race,Pierre Gasly,AlphaTauri,Red Flag Infringement,0,"Drive Through Penalty, Penalty Points",0.0,Drive Through/Stop-Go/DSQ
+2022,19,United States,FP3,Practice,Lance Stroll,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,19,United States,Q,Qualifying,Yuki Tsunoda,AlphaTauri,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,19,United States,R,Race,Kevin Magnussen,Haas,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2022,19,United States,R,Race,Esteban Ocon,Alpine,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2022,19,United States,R,Race,Pierre Gasly,AlphaTauri,Safety Car Infringement,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,19,United States,R,Race,Pierre Gasly,AlphaTauri,Failure to Serve Penalty,0,Time Penalty,10.0,10s Penalty
+2022,19,United States,R,Race,Nicholas Latifi,Williams,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,19,United States,R,Race,George Russell,Mercedes,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,19,United States,R,Race,Mick Schumacher,Haas,Track Limits Violations,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,19,United States,R,Race,Alexander Albon,Williams,Leaving the Track and Gaining an Advantage,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,19,United States,R,Race,Lance Stroll,Aston Martin,Causing a Collision,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2022,20,Mexico,FP3,Practice,Lance Stroll,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,20,Mexico,R,Race,Pierre Gasly,AlphaTauri,Leaving the Track and Gaining an Advantage,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,20,Mexico,Pre-Race,Pre-Race,Kevin Magnussen,Haas,Driving Unnecessarily Slowly,0,No Further Action,0.0,No Further Action
+2022,20,Mexico,R,Race,Daniel Ricciardo,McLaren,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2022,20,Mexico,R,Race,Nicholas Latifi,Williams,Driving Unnecessarily Slowly,0,Warning,0.0,Warning/Reprimand
+2022,21,Brazil,FP2,Practice,Lance Stroll,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,21,Brazil,S,Sprint,Pierre Gasly,AlphaTauri,Driving Unnecessarily Slowly,0,Warning,0.0,Warning/Reprimand
+2022,21,Brazil,S,Sprint,Lance Stroll,Aston Martin,Forcing Another Car Off the Track,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2022,21,Brazil,S,Sprint,Fernando Alonso,Alpine,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,21,Brazil,R,Race,Max Verstappen,Red Bull,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,21,Brazil,R,Race,Lando Norris,McLaren,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,21,Brazil,R,Race,Pierre Gasly,AlphaTauri,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2022,21,Brazil,R,Race,Daniel Ricciardo,McLaren,Causing a Collision,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2022,22,Abu Dhabi,R,Race,Lewis Hamilton,Mercedes,Pit Lane Speeding,0,Fine,0.0,Fine
+2022,22,Abu Dhabi,R,Race,Mick Schumacher,Haas,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2022,22,Abu Dhabi,R,Race,George Russell,Mercedes,Unsafe Release,1,Time Penalty,5.0,5s Penalty
+2022,22,Abu Dhabi,R,Race,Lewis Hamilton,Mercedes,Red Flag Infringement,1,No Further Action,0.0,No Further Action
+2023,1,Bahrain,R,Race,Nico Hulkenberg,Haas,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2023,1,Bahrain,R,Race,Nico Hulkenberg,Haas,Track Limits Violations,0,Time Penalty,10.0,10s Penalty
+2023,1,Bahrain,FP1,Practice,Lewis Hamilton,Mercedes,Wearing of Jewelry,0,No further action,0.0,No Further Action
+2023,1,Bahrain,FP2,Practice,Nyck de Vries,AlphaTauri,Unsafe Release,1,No further action,0.0,No Further Action
+2023,1,Bahrain,Q,Qualifying,Pierre Gasly,Alpine,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,1,Bahrain,R,Race,Esteban Ocon,Alpine,Failure to Serve Penalty,0,Time Penalty,10.0,10s Penalty
+2023,1,Bahrain,R,Race,Esteban Ocon,Alpine,Incorrect Starting Position,0,Time Penalty,5.0,5s Penalty
+2023,1,Bahrain,R,Race,Esteban Ocon,Alpine,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2023,2,Saudi Arabia,FP1,Practice,Lewis Hamilton,Mercedes,Wearing of Jewelry,0,No further action,0.0,No Further Action
+2023,2,Saudi Arabia,R,Race,Fernando Alonso,Aston Martin,Incorrect Starting Position,0,Time Penalty,5.0,5s Penalty
+2023,2,Saudi Arabia,R,Race,Fernando Alonso,Aston Martin,Failure to Serve Penalty,0,Time Penalty,10.0,10s Penalty
+2023,3,Australia,FP1,Practice,Lewis Hamilton,Mercedes,Wearing of Jewelry,0,No further action,0.0,No Further Action
+2023,3,Australia,FP1,Practice,Max Verstappen,Red Bull,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,3,Australia,FP3,Practice,Lance Stroll,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,3,Australia,FP3,Practice,Oscar Piastri,McLaren,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2023,3,Australia,R,Race,Carlos Sainz,Ferrari,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2023,3,Australia,R,Race,Pierre Gasly,Alpine,Causing a Collision,1,No further action,0.0,No Further Action
+2023,3,Australia,R,Race,Esteban Ocon,Alpine,Causing a Collision,1,No further action,0.0,No Further Action
+2023,4,Azerbaijan,S,Sprint,Yuki Tsunoda,AlphaTauri,Unsafe Release,0,Fine,0.0,Fine
+2023,5,Miami,FP2,Practice,Lance Stroll,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,5,Miami,FP2,Practice,Lance Stroll,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,5,Miami,Q,Qualifying,Kevin Magnussen,Haas,Causing a Collision,1,No further action,0.0,No Further Action
+2023,5,Miami,Q,Qualifying,Lewis Hamilton,Mercedes,Causing a Collision,1,No further action,0.0,No Further Action
+2023,5,Miami,R,Race,Carlos Sainz,Ferrari,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2023,6,Monaco,FP2,Practice,George Russell,Mercedes,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,6,Monaco,FP2,Practice,Yuki Tsunoda,AlphaTauri,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,6,Monaco,FP3,Practice,Zhou Guanyu,Alfa Romeo,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,6,Monaco,FP3,Practice,Logan Sargeant,Williams,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,6,Monaco,FP3,Practice,Logan Sargeant,Williams,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,6,Monaco,FP3,Practice,Zhou Guanyu,Alfa Romeo,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,6,Monaco,FP3,Practice,Lewis Hamilton,Mercedes,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,6,Monaco,Q,Qualifying,Charles Leclerc,Ferrari,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2023,6,Monaco,Q,Qualifying,Lance Stroll,Aston Martin,Technical Infringement,0,No further action,0.0,No Further Action
+2023,6,Monaco,R,Race,Alexander Albon,Williams,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,6,Monaco,R,Race,Nico Hulkenberg,Haas,Causing a Collision,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2023,6,Monaco,R,Race,Nico Hulkenberg,Haas,Failure to Serve Penalty,0,Time Penalty,10.0,10s Penalty
+2023,6,Monaco,R,Race,Logan Sargeant,Williams,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2023,6,Monaco,R,Race,George Russell,Mercedes,Leaving the Track and Rejoining Unsafely,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2023,7,Spain,Q,Qualifying,Pierre Gasly,Alpine,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2023,7,Spain,Q,Qualifying,Pierre Gasly,Alpine,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2023,7,Spain,Q,Qualifying,George Russell,Mercedes,Driving Erratically,0,Warning,0.0,Warning/Reprimand
+2023,7,Spain,R,Race,Yuki Tsunoda,AlphaTauri,Forcing Another Car Off the Track,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2023,8,Canada,FP2,Practice,Lance Stroll,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,8,Canada,FP2,Practice,Yuki Tsunoda,AlphaTauri,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,8,Canada,FP3,Practice,Carlos Sainz,Ferrari,Impeding,1,No further action,0.0,No Further Action
+2023,8,Canada,Q,Qualifying,Alexander Albon,Williams,Tyre Procedure Infringement,0,Fine,0.0,Fine
+2023,8,Canada,Q,Qualifying,Logan Sargeant,Williams,Tyre Procedure Infringement,0,Fine,0.0,Fine
+2023,8,Canada,Q,Qualifying,Carlos Sainz,Ferrari,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2023,8,Canada,Q,Qualifying,Lance Stroll,Aston Martin,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2023,8,Canada,Q,Qualifying,Yuki Tsunoda,AlphaTauri,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2023,8,Canada,Q,Qualifying,Nico Hulkenberg,Haas,Red Flag Infringement,0,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2023,8,Canada,R,Race,Lando Norris,McLaren,Unsportsmanlike Behavior,0,Time Penalty,5.0,5s Penalty
+2023,8,Canada,Pre-Race,Pre-Race,Nico Hulkenberg,Haas,Media/Fan Activity Infringement,0,Reprimand,0.0,Warning/Reprimand
+2023,8,Canada,R,Race,Kevin Magnussen,Haas,Causing a Collision,1,No further action,0.0,No Further Action
+2023,8,Canada,R,Race,Nyck de Vries,AlphaTauri,Causing a Collision,1,No further action,0.0,No Further Action
+2023,8,Canada,R,Race,Lando Norris,McLaren,Unsafe Release,1,No further action,0.0,No Further Action
+2023,8,Canada,Q,Qualifying,Yuki Tsunoda,AlphaTauri,Impeding,1,No further action,0.0,No Further Action
+2023,8,Canada,FP3,Practice,Carlos Sainz,Ferrari,Impeding,1,No further action,0.0,No Further Action
+2023,8,Canada,R,Race,Lewis Hamilton,Mercedes,Unsafe Release,1,No further action,0.0,No Further Action
+2023,8,Canada,Pre-Race,Pre-Race,Kevin Magnussen,Haas,Media/Fan Activity Infringement,0,Reprimand,0.0,Warning/Reprimand
+2023,9,Austria,FP1,Practice,Lewis Hamilton,Mercedes,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,9,Austria,FP1,Practice,Fernando Alonso,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,9,Austria,FP1,Practice,Lance Stroll,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,9,Austria,Q,Qualifying,Max Verstappen,Red Bull,Impeding,1,No further action,0.0,No Further Action
+2023,9,Austria,SQ,Qualifying,Nico Hulkenberg,Haas,Unsafe Release,0,Warning,0.0,Warning/Reprimand
+2023,9,Austria,SQ,Qualifying,Charles Leclerc,Ferrari,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2023,9,Austria,R,Race,Lewis Hamilton,Mercedes,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2023,9,Austria,R,Race,Yuki Tsunoda,AlphaTauri,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2023,9,Austria,R,Race,Carlos Sainz,Ferrari,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2023,9,Austria,R,Race,Kevin Magnussen,Haas,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2023,9,Austria,R,Race,Logan Sargeant,Williams,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2023,9,Austria,R,Race,Esteban Ocon,Alpine,Unsafe Release,0,Time Penalty,5.0,5s Penalty
+2023,9,Austria,R,Race,Alexander Albon,Williams,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2023,9,Austria,R,Race,Nyck de Vries,AlphaTauri,Forcing Another Car Off the Track,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2023,9,Austria,R,Race,Yuki Tsunoda,AlphaTauri,Track Limits Violations,0,Time Penalty,10.0,10s Penalty
+2023,9,Austria,R,Race,Pierre Gasly,Alpine,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2023,9,Austria,R,Race,Carlos Sainz,Ferrari,Track Limits Violations,0,Time Penalty,10.0,10s Penalty
+2023,9,Austria,R,Race,Lewis Hamilton,Mercedes,Track Limits Violations,0,Time Penalty,10.0,10s Penalty
+2023,9,Austria,R,Race,Pierre Gasly,Alpine,Track Limits Violations,0,Time Penalty,10.0,10s Penalty
+2023,9,Austria,R,Race,Alexander Albon,Williams,Track Limits Violations,0,Time Penalty,10.0,10s Penalty
+2023,9,Austria,R,Race,Esteban Ocon,Alpine,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2023,9,Austria,R,Race,Esteban Ocon,Alpine,Track Limits Violations,0,Time Penalty,10.0,10s Penalty
+2023,9,Austria,R,Race,Logan Sargeant,Williams,Track Limits Violations,0,Time Penalty,10.0,10s Penalty
+2023,9,Austria,R,Race,Nyck de Vries,AlphaTauri,Track Limits Violations,0,Time Penalty,10.0,10s Penalty
+2023,9,Austria,R,Race,Nyck de Vries,AlphaTauri,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2023,9,Austria,R,Race,Yuki Tsunoda,AlphaTauri,Failure to Serve Penalty,0,No further action,0.0,No Further Action
+2023,10,Great Britain,FP2,Practice,Sergio Perez,Red Bull,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,10,Great Britain,FP3,Practice,Lando Norris,McLaren,Unsafe Release,0,Fine,0.0,Fine
+2023,10,Great Britain,Q,Qualifying,Nyck de Vries,AlphaTauri,Unsafe Release,1,Fine,0.0,Fine
+2023,10,Great Britain,Q,Qualifying,Valtteri Bottas,Alfa Romeo,Technical Infringement,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2023,10,Great Britain,Q,Qualifying,Zhou Guanyu,Alfa Romeo,Impeding,1,No further action,0.0,No Further Action
+2023,10,Great Britain,R,Race,Lance Stroll,Aston Martin,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2023,11,Hungary,Q,Qualifying,Kevin Magnussen,Haas,Tyre Procedure Infringement,0,Fine,0.0,Fine
+2023,11,Hungary,Q,Qualifying,Nico Hulkenberg,Haas,Tyre Procedure Infringement,0,Fine,0.0,Fine
+2023,11,Hungary,R,Race,Charles Leclerc,Ferrari,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2023,11,Hungary,Q,Qualifying,Lance Stroll,Aston Martin,Impeding,1,No further action,0.0,No Further Action
+2023,11,Hungary,R,Race,Zhou Guanyu,Alfa Romeo,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2023,12,Belgium,FP1,Practice,Yuki Tsunoda,AlphaTauri,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,12,Belgium,Q,Qualifying,Lewis Hamilton,Mercedes,Leaving the Track and Rejoining Unsafely,1,No further action,0.0,No Further Action
+2023,12,Belgium,Q,Qualifying,Alexander Albon,Williams,Leaving the Track and Rejoining Unsafely,0,Reprimand,0.0,Warning/Reprimand
+2023,12,Belgium,Q,Qualifying,Kevin Magnussen,Haas,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2023,12,Belgium,S,Sprint,Logan Sargeant,Williams,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2023,12,Belgium,S,Sprint,Lewis Hamilton,Mercedes,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2023,12,Belgium,S,Sprint,Fernando Alonso,Aston Martin,Causing a Collision,1,Warning,0.0,Warning/Reprimand
+2023,13,Netherlands,Q,Qualifying,Carlos Sainz,Ferrari,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,13,Netherlands,Q,Qualifying,Yuki Tsunoda,AlphaTauri,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2023,13,Netherlands,FP2,Practice,Nico Hulkenberg,Haas,Impeding,1,No further action,0.0,No Further Action
+2023,13,Netherlands,Q,Qualifying,Lance Stroll,Aston Martin,Impeding,1,No further action,0.0,No Further Action
+2023,13,Netherlands,Q,Qualifying,Carlos Sainz,Ferrari,Dangerous Driving,1,"Reprimand, Fine",0.0,Fine
+2023,13,Netherlands,R,Race,Pierre Gasly,Alpine,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2023,13,Netherlands,R,Race,Liam Lawson,AlphaTauri,Impeding,1,Time Penalty,10.0,10s Penalty
+2023,13,Netherlands,R,Race,Sergio Perez,Red Bull,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2023,13,Netherlands,R,Race,Yuki Tsunoda,AlphaTauri,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2023,13,Netherlands,R,Race,Kevin Magnussen,Haas,Restart Infringement,0,Time Penalty,5.0,5s Penalty
+2023,14,Italy,FP2,Practice,Max Verstappen,Red Bull,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,14,Italy,R,Race,Logan Sargeant,Williams,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2023,14,Italy,R,Race,Oscar Piastri,McLaren,Leaving the Track and Gaining an Advantage,1,Time Penalty,5.0,5s Penalty
+2023,14,Italy,R,Race,George Russell,Mercedes,Leaving the Track and Gaining an Advantage,1,Time Penalty,5.0,5s Penalty
+2023,14,Italy,R,Race,Lewis Hamilton,Mercedes,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2023,15,Singapore,FP3,Practice,Nico Hulkenberg,Haas,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,15,Singapore,R,Race,Alexander Albon,Williams,Safety Car Infringement,1,No further action,0.0,No Further Action
+2023,15,Singapore,Q,Qualifying,Max Verstappen,Red Bull,Impeding,1,No further action,0.0,No Further Action
+2023,15,Singapore,FP3,Practice,Carlos Sainz,Ferrari,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,15,Singapore,Q,Qualifying,Logan Sargeant,Williams,Impeding,1,"Reprimand, Fine",0.0,Fine
+2023,15,Singapore,Q,Qualifying,Max Verstappen,Red Bull,Impeding,0,Reprimand,0.0,Warning/Reprimand
+2023,15,Singapore,Q,Qualifying,Max Verstappen,Red Bull,Impeding,1,"Reprimand, Fine",0.0,Fine
+2023,15,Singapore,R,Race,Fernando Alonso,Aston Martin,Pit Lane Infringement,0,Time Penalty,5.0,5s Penalty
+2023,15,Singapore,R,Race,Sergio Perez,Red Bull,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2023,16,Japan,R,Race,Logan Sargeant,Williams,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2023,16,Japan,R,Race,Sergio Perez,Red Bull,Safety Car Infringement,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2023,16,Japan,R,Race,Sergio Perez,Red Bull,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2023,17,Qatar,Q,Qualifying,Carlos Sainz,Ferrari,Driving Erratically,1,Warning,0.0,Warning/Reprimand
+2023,17,Qatar,SQ,Qualifying,Pierre Gasly,Alpine,Exceeding Delta Time,0,Warning,0.0,Warning/Reprimand
+2023,17,Qatar,S,Sprint,Lance Stroll,Aston Martin,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2023,17,Qatar,S,Sprint,Charles Leclerc,Ferrari,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2023,17,Qatar,R,Race,Nico Hulkenberg,Haas,Incorrect Starting Position,0,Time Penalty,10.0,10s Penalty
+2023,17,Qatar,R,Race,Lance Stroll,Aston Martin,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2023,17,Qatar,R,Race,Pierre Gasly,Alpine,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2023,17,Qatar,R,Race,Alexander Albon,Williams,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2023,17,Qatar,R,Race,Lewis Hamilton,Mercedes,Causing a Collision,1,No further action,0.0,No Further Action
+2023,17,Qatar,S,Sprint,Esteban Ocon,Alpine,Causing a Collision,1,No further action,0.0,No Further Action
+2023,17,Qatar,S,Sprint,Sergio Perez,Red Bull,Causing a Collision,1,No further action,0.0,No Further Action
+2023,17,Qatar,S,Sprint,Nico Hulkenberg,Haas,Causing a Collision,1,No further action,0.0,No Further Action
+2023,17,Qatar,R,Race,Sergio Perez,Red Bull,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2023,17,Qatar,R,Race,Lewis Hamilton,Mercedes,Crossing the Track without Permission,0,"Reprimand, Fine",0.0,Fine
+2023,17,Qatar,R,Race,Fernando Alonso,Aston Martin,Leaving the Track and Rejoining Unsafely,0,Reprimand,0.0,Warning/Reprimand
+2023,18,United States,SQ,Qualifying,George Russell,Mercedes,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2023,18,United States,S,Sprint,George Russell,Mercedes,Leaving the Track and Gaining an Advantage,1,Time Penalty,5.0,5s Penalty
+2023,18,United States,S,Sprint,Zhou Guanyu,Alfa Romeo,Leaving the Track and Gaining an Advantage,1,Time Penalty,5.0,5s Penalty
+2023,18,United States,S,Sprint,Alexander Albon,Williams,Leaving the Track and Gaining an Advantage,1,No further action,0.0,No Further Action
+2023,18,United States,S,Sprint,Zhou Guanyu,Alfa Romeo,Forcing Another Car Off the Track,1,No further action,0.0,No Further Action
+2023,18,United States,R,Race,Lance Stroll,Aston Martin,Leaving the Track and Gaining an Advantage,1,No further action,0.0,No Further Action
+2023,18,United States,Pre-Race,Pre-Race,Lance Stroll,Aston Martin,Pit Lane Infringement,0,No further action,0.0,No Further Action
+2023,18,United States,R,Race,Alexander Albon,Williams,Track Limits Violations,0,No further action,0.0,No Further Action
+2023,18,United States,R,Race,Alexander Albon,Williams,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2023,18,United States,R,Race,Lewis Hamilton,Mercedes,Technical Infringement,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2023,18,United States,R,Race,Charles Leclerc,Ferrari,Technical Infringement,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2023,19,Mexico,Q,Qualifying,George Russell,Mercedes,Impeding,0,No further action,0.0,No Further Action
+2023,19,Mexico,Q,Qualifying,Max Verstappen,Red Bull,Impeding,0,No further action,0.0,No Further Action
+2023,19,Mexico,Q,Qualifying,Fernando Alonso,Aston Martin,Impeding,0,No further action,0.0,No Further Action
+2023,19,Mexico,Q,Qualifying,Lewis Hamilton,Mercedes,Yellow Flag Infringement,0,No further action,0.0,No Further Action
+2023,19,Mexico,R,Race,Oscar Piastri,McLaren,Causing a Collision,1,No further action,0.0,No Further Action
+2023,19,Mexico,R,Race,Yuki Tsunoda,AlphaTauri,Causing a Collision,1,No further action,0.0,No Further Action
+2023,19,Mexico,R,Race,Charles Leclerc,Ferrari,Unsafe Release,0,No further action,0.0,No Further Action
+2023,19,Mexico,Q,Qualifying,Logan Sargeant,Williams,Yellow Flag Infringement,0,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2023,19,Mexico,Q,Qualifying,Zhou Guanyu,Alfa Romeo,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,19,Mexico,R,Race,Fernando Alonso,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2023,19,Mexico,R,Race,Valtteri Bottas,Alfa Romeo,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2023,20,Brazil,Q,Qualifying,George Russell,Mercedes,Pit Lane Infringement,0,Grid Penalty,0.0,Grid Penalty
+2023,20,Brazil,Q,Qualifying,Esteban Ocon,Alpine,Pit Lane Infringement,0,Grid Penalty,0.0,Grid Penalty
+2023,20,Brazil,FP1,Practice,Lando Norris,McLaren,Causing a Collision,1,No further action,0.0,No Further Action
+2023,20,Brazil,FP1,Practice,Nico Hulkenberg,Haas,Causing a Collision,1,No further action,0.0,No Further Action
+2023,20,Brazil,SQ,Qualifying,Esteban Ocon,Alpine,Causing a Collision,1,No further action,0.0,No Further Action
+2023,20,Brazil,Q,Qualifying,Pierre Gasly,Alpine,Pit Lane Infringement,0,Grid Penalty,0.0,Grid Penalty
+2023,20,Brazil,SQ,Qualifying,Yuki Tsunoda,AlphaTauri,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2023,20,Brazil,SQ,Qualifying,Lando Norris,McLaren,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2023,21,Las Vegas,Q,Qualifying,Lance Stroll,Aston Martin,Yellow Flag Infringement,0,No further action,0.0,No Further Action
+2023,21,Las Vegas,FP3,Practice,Lance Stroll,Aston Martin,Yellow Flag Infringement,0,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2023,21,Las Vegas,R,Race,Max Verstappen,Red Bull,Forcing Another Car Off the Track,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2023,21,Las Vegas,R,Race,George Russell,Mercedes,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2023,22,Abu Dhabi,FP1,Practice,Logan Sargeant,Williams,Driving Erratically,0,"Reprimand, Fine",0.0,Fine
+2023,22,Abu Dhabi,FP1,Practice,Lance Stroll,Aston Martin,Driving Unnecessarily Slowly,1,Fine,0.0,Fine
+2023,22,Abu Dhabi,R,Race,Sergio Perez,Red Bull,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2023,22,Abu Dhabi,R,Race,Sergio Perez,Red Bull,Language Infringement,0,Warning,0.0,Warning/Reprimand
+2023,22,Abu Dhabi,Q,Qualifying,Oscar Piastri,McLaren,Impeding,1,No further action,0.0,No Further Action
+2023,22,Abu Dhabi,R,Race,Lewis Hamilton,Mercedes,Causing a Collision,1,No further action,0.0,No Further Action
+2024,1,Bahrain,FP2,Practice,Valtteri Bottas,Sauber,Pit Lane Infringement,0,Reprimand,0.0,Warning/Reprimand
+2024,2,Saudi Arabia,FP2,Practice,Lewis Hamilton,Mercedes,Impeding,1,Warning,0.0,Warning/Reprimand
+2024,2,Saudi Arabia,R,Race,Lando Norris,McLaren,False Start,0,No further action,0.0,No Further Action
+2024,2,Saudi Arabia,R,Race,Kevin Magnussen,Haas,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,2,Saudi Arabia,R,Race,Kevin Magnussen,Haas,Leaving the Track and Gaining an Advantage,1,Time Penalty,10.0,10s Penalty
+2024,2,Saudi Arabia,R,Race,Sergio Perez,Red Bull,Unsafe Release,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2024,2,Saudi Arabia,R,Race,Yuki Tsunoda,Racing Bulls,Unsafe Release,1,Time Penalty,5.0,5s Penalty
+2024,3,Australia,FP3,Practice,Carlos Sainz,Ferrari,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2024,3,Australia,Q,Qualifying,Pierre Gasly,Alpine,Pit Lane Infringement,0,Reprimand,0.0,Warning/Reprimand
+2024,3,Australia,Q,Qualifying,Sergio Perez,Red Bull,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2024,3,Australia,R,Race,Pierre Gasly,Alpine,Pit Lane Infringement,0,Time Penalty,5.0,5s Penalty
+2024,3,Australia,R,Race,Valtteri Bottas,Sauber,Pit Lane Infringement,0,Fine,0.0,Fine
+2024,3,Australia,R,Race,Fernando Alonso,Aston Martin,Dangerous Driving,1,"Drive through penalty, Penalty Points",20.0,Drive Through/Stop-Go/DSQ
+2024,4,Japan,FP1,Practice,Lance Stroll,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2024,4,Japan,Q,Qualifying,George Russell,Mercedes,Unsafe Release,1,Fine,0.0,Fine
+2024,4,Japan,R,Race,Lance Stroll,Aston Martin,Pit Lane Incident,1,No further action,0.0,No Further Action
+2024,4,Japan,R,Race,Daniel Ricciardo,Racing Bulls,Causing a Collision,1,No further action,0.0,No Further Action
+2024,4,Japan,R,Race,George Russell,Mercedes,Forcing Another Car Off the Track,1,No further action,0.0,No Further Action
+2024,5,China,SQ,Qualifying,Fernando Alonso,Aston Martin,Pit Lane Infringement,1,No further action,0.0,No Further Action
+2024,5,China,S,Sprint,Fernando Alonso,Aston Martin,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,5,China,Q,Qualifying,Nico Hulkenberg,Haas,Pit Lane Infringement,0,Reprimand,0.0,Warning/Reprimand
+2024,5,China,R,Race,Kevin Magnussen,Haas,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,5,China,R,Race,Alexander Albon,Williams,Forcing Another Car Off the Track,1,No further action,0.0,No Further Action
+2024,5,China,R,Race,Lance Stroll,Aston Martin,Forcing Another Car Off the Track,1,No further action,0.0,No Further Action
+2024,5,China,R,Race,Logan Sargeant,Williams,Safety Car Infringement,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,5,China,R,Race,Lance Stroll,Aston Martin,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,5,China,R,Race,Daniel Ricciardo,Racing Bulls,Safety Car Infringement,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2024,5,China,R,Race,Pierre Gasly,Alpine,Unsafe Release,0,Fine,0.0,Fine
+2024,6,Miami,FP1,Practice,Lance Stroll,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2024,6,Miami,SQ,Qualifying,Lewis Hamilton,Mercedes,Pit Lane Infringement,0,No further action,0.0,No Further Action
+2024,6,Miami,SQ,Qualifying,Valtteri Bottas,Sauber,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2024,6,Miami,S,Sprint,Lewis Hamilton,Mercedes,Pit Lane Speeding,0,Drive through penalty,20.0,Drive Through/Stop-Go/DSQ
+2024,6,Miami,S,Sprint,Fernando Alonso,Aston Martin,Causing a Collision,1,No further action,0.0,No Further Action
+2024,6,Miami,S,Sprint,Lance Stroll,Aston Martin,Causing a Collision,1,No further action,0.0,No Further Action
+2024,6,Miami,S,Sprint,Lewis Hamilton,Mercedes,Causing a Collision,1,No further action,0.0,No Further Action
+2024,6,Miami,S,Sprint,Lando Norris,McLaren,Crossing the Track without Permission,0,Reprimand,0.0,Warning/Reprimand
+2024,6,Miami,S,Sprint,Kevin Magnussen,Haas,Leaving the Track and Gaining an Advantage,0,Time Penalty,10.0,10s Penalty
+2024,6,Miami,S,Sprint,Kevin Magnussen,Haas,Track Limits Violations,0,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,6,Miami,S,Sprint,Kevin Magnussen,Haas,Unsportsmanlike Behavior,1,No further action,0.0,No Further Action
+2024,6,Miami,Q,Qualifying,Zhou Guanyu,Sauber,Pit Lane Infringement,0,Warning,0.0,Warning/Reprimand
+2024,6,Miami,Q,Qualifying,Pierre Gasly,Alpine,Pit Lane Infringement,0,No further action,0.0,No Further Action
+2024,6,Miami,Q,Qualifying,Zhou Guanyu,Sauber,Pit Lane Infringement,0,Reprimand,0.0,Warning/Reprimand
+2024,6,Miami,S,Sprint,Esteban Ocon,Alpine,Unsafe Release,0,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,6,Miami,R,Race,Kevin Magnussen,Haas,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,6,Miami,R,Race,Lance Stroll,Aston Martin,Leaving the Track and Gaining an Advantage,1,Time Penalty,10.0,10s Penalty
+2024,6,Miami,R,Race,Kevin Magnussen,Haas,Safety Car Infringement,0,Drive through penalty,20.0,Drive Through/Stop-Go/DSQ
+2024,6,Miami,R,Race,Carlos Sainz,Ferrari,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2024,7,Imola,FP1,Practice,Sergio Perez,Red Bull,Pit Lane Speeding,0,Fine,0.0,Fine
+2024,7,Imola,FP2,Practice,Sergio Perez,Red Bull,Impeding,1,No further action,0.0,No Further Action
+2024,7,Imola,FP2,Practice,Yuki Tsunoda,Racing Bulls,Pit Lane Infringement,0,Reprimand,0.0,Warning/Reprimand
+2024,7,Imola,FP3,Practice,Lance Stroll,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2024,7,Imola,FP3,Practice,Daniel Ricciardo,Racing Bulls,Impeding,1,Fine,0.0,Fine
+2024,7,Imola,Q,Qualifying,Oscar Piastri,McLaren,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2024,7,Imola,R,Race,Alexander Albon,Williams,Unsafe Release,0,10 second stop and go penalty,0.0,Drive Through/Stop-Go/DSQ
+2024,7,Imola,R,Race,Alexander Albon,Williams,Continuing in Unsafe Condition,0,No further action,0.0,No Further Action
+2024,8,Monaco,FP1,Practice,Valtteri Bottas,Sauber,Pit Lane Speeding,0,Fine,0.0,Fine
+2024,8,Monaco,FP1,Practice,Lance Stroll,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2024,8,Monaco,FP3,Practice,Lando Norris,McLaren,Impeding,1,Reprimand,0.0,Warning/Reprimand
+2024,8,Monaco,FP3,Practice,Max Verstappen,Red Bull,Driving Unnecessarily Slowly,0,Warning,0.0,Warning/Reprimand
+2024,8,Monaco,Q,Qualifying,Nico Hulkenberg,Haas,Impeding,1,No further action,0.0,No Further Action
+2024,8,Monaco,Q,Qualifying,Carlos Sainz,Ferrari,Impeding,1,No further action,0.0,No Further Action
+2024,8,Monaco,Q,Qualifying,Kevin Magnussen,Haas,Technical Infringement,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2024,8,Monaco,Q,Qualifying,Nico Hulkenberg,Haas,Technical Infringement,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2024,8,Monaco,R,Race,Esteban Ocon,Alpine,Causing a Collision,1,"Time Penalty, Penalty Points",0.0,Grid Penalty
+2024,9,Canada,FP2,Practice,Charles Leclerc,Ferrari,Tyre Procedure Infringement,0,Fine,0.0,Fine
+2024,9,Canada,FP2,Practice,Lando Norris,McLaren,Failure to Follow Race Director Instructions,0,No further action,0.0,No Further Action
+2024,9,Canada,FP2,Practice,Oscar Piastri,McLaren,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2024,9,Canada,FP3,Practice,Oscar Piastri,McLaren,Failure to Follow Race Director Instructions,0,No further action,0.0,No Further Action
+2024,9,Canada,Q,Qualifying,Max Verstappen,Red Bull,Pit Lane Infringement,0,No further action,0.0,No Further Action
+2024,9,Canada,R,Race,Lando Norris,McLaren,Leaving the Track and Gaining an Advantage,0,No further action,0.0,No Further Action
+2024,9,Canada,R,Race,Daniel Ricciardo,Racing Bulls,False Start,0,Time Penalty,5.0,5s Penalty
+2024,9,Canada,R,Race,Oscar Piastri,McLaren,Causing a Collision,1,No further action,0.0,No Further Action
+2024,9,Canada,R,Race,George Russell,Mercedes,Causing a Collision,1,No further action,0.0,No Further Action
+2024,9,Canada,R,Race,Yuki Tsunoda,Racing Bulls,Media/Fan Activity Infringement,0,Fine,0.0,Fine
+2024,9,Canada,R,Race,Sergio Perez,Red Bull,Continuing in Unsafe Condition,0,"Grid Penalty, Fine",0.0,Grid Penalty
+2024,10,Spain,Pre-Race,Pre-Race,Lance Stroll,Aston Martin,Media/Fan Activity Infringement,0,Reprimand,0.0,Warning/Reprimand
+2024,10,Spain,FP3,Practice,Lance Stroll,Aston Martin,Causing a Collision,1,Reprimand,0.0,Warning/Reprimand
+2024,10,Spain,FP3,Practice,Charles Leclerc,Ferrari,Causing a Collision,1,Reprimand,0.0,Warning/Reprimand
+2024,10,Spain,Q,Qualifying,Logan Sargeant,Williams,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2024,10,Spain,R,Race,Kevin Magnussen,Haas,False Start,0,Time Penalty,5.0,5s Penalty
+2024,10,Spain,R,Race,Nico Hulkenberg,Haas,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2024,10,Spain,R,Race,Yuki Tsunoda,Racing Bulls,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2024,11,Austria,Pre-Race,Pre-Race,Max Verstappen,Red Bull,Media/Fan Activity Infringement,0,No further action,0.0,No Further Action
+2024,11,Austria,S,Sprint,Nico Hulkenberg,Haas,Forcing Another Car Off the Track,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,11,Austria,Q,Qualifying,Nico Hulkenberg,Haas,Pit Lane Incident,0,No further action,0.0,No Further Action
+2024,11,Austria,Q,Qualifying,Max Verstappen,Red Bull,Driving Unnecessarily Slowly,0,No further action,0.0,No Further Action
+2024,11,Austria,Q,Qualifying,Nico Hulkenberg,Haas,Pit Lane Incident,0,Reprimand,0.0,Warning/Reprimand
+2024,11,Austria,Q,Qualifying,Lewis Hamilton,Mercedes,Unsafe Release,0,Fine,0.0,Fine
+2024,11,Austria,Q,Qualifying,Yuki Tsunoda,Racing Bulls,Language Infringement,0,Fine,0.0,Fine
+2024,11,Austria,R,Race,Sergio Perez,Red Bull,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2024,11,Austria,R,Race,Lewis Hamilton,Mercedes,Leaving the Track and Gaining an Advantage,1,No further action,0.0,No Further Action
+2024,11,Austria,R,Race,Max Verstappen,Red Bull,Unsafe Release,0,No further action,0.0,No Further Action
+2024,11,Austria,R,Race,Fernando Alonso,Aston Martin,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,11,Austria,R,Race,Lewis Hamilton,Mercedes,Pit Lane Infringement,0,Time Penalty,5.0,5s Penalty
+2024,11,Austria,R,Race,Alexander Albon,Williams,Pit Lane Infringement,0,Time Penalty,5.0,5s Penalty
+2024,11,Austria,R,Race,Lando Norris,McLaren,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2024,11,Austria,R,Race,Max Verstappen,Red Bull,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,12,Great Britain,FP1,Practice,Isack Hadjar,Red Bull,Impeding,1,"Warning, Fine",0.0,Fine
+2024,12,Great Britain,Q,Qualifying,Fernando Alonso,Aston Martin,Pit Lane Infringement,0,No further action,0.0,No Further Action
+2024,12,Great Britain,FP1,Practice,Lance Stroll,Aston Martin,Impeding,1,"Warning, Fine",0.0,Fine
+2024,12,Great Britain,FP3,Practice,Daniel Ricciardo,Racing Bulls,Pit Lane Infringement,0,Reprimand,0.0,Warning/Reprimand
+2024,12,Great Britain,Q,Qualifying,Lance Stroll,Aston Martin,Pit Lane Infringement,0,Reprimand,0.0,Warning/Reprimand
+2024,12,Great Britain,R,Race,Max Verstappen,Red Bull,Pit Lane Speeding,0,Fine,0.0,Fine
+2024,12,Great Britain,R,Race,Alexander Albon,Williams,Pit Lane Speeding,0,Fine,0.0,Fine
+2024,12,Great Britain,R,Race,Max Verstappen,Red Bull,Pit Lane Speeding,0,Fine,0.0,Fine
+2024,12,Great Britain,R,Race,Alexander Albon,Williams,Pit Lane Speeding,0,Fine,0.0,Fine
+2024,12,Great Britain,R,Race,Max Verstappen,Red Bull,Pit Lane Speeding,0,Fine,0.0,Fine
+2024,13,Hungary,R,Race,Max Verstappen,Red Bull,Causing a Collision,1,No further action,0.0,No Further Action
+2024,13,Hungary,R,Race,Max Verstappen,Red Bull,Leaving the Track and Gaining an Advantage,1,No further action,0.0,No Further Action
+2024,14,Belgium,Q,Qualifying,Zhou Guanyu,Sauber,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2024,14,Belgium,R,Race,George Russell,Mercedes,Technical Infringement,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2024,15,Netherlands,FP1,Practice,Logan Sargeant,Williams,Pit Lane Speeding,0,Fine,0.0,Fine
+2024,15,Netherlands,FP2,Practice,Alexander Albon,Williams,Unsafe Release,1,Fine,0.0,Fine
+2024,15,Netherlands,FP2,Practice,Zhou Guanyu,Sauber,Unsafe Release,1,Fine,0.0,Fine
+2024,15,Netherlands,FP3,Practice,Nico Hulkenberg,Haas,Continuing in Unsafe Condition,0,Reprimand,0.0,Warning/Reprimand
+2024,15,Netherlands,Q,Qualifying,Lewis Hamilton,Mercedes,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2024,15,Netherlands,Q,Qualifying,Alexander Albon,Williams,Technical Infringement,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2024,15,Netherlands,R,Race,Lance Stroll,Aston Martin,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2024,16,Italy,FP1,Practice,Kevin Magnussen,Haas,Impeding,1,Fine,0.0,Fine
+2024,16,Italy,FP3,Practice,Franco Colapinto,Williams,Practice Start Infringement,0,Warning,0.0,Warning/Reprimand
+2024,16,Italy,FP3,Practice,Sergio Perez,Red Bull,Failure to Follow Race Director Instructions,0,No further action,0.0,No Further Action
+2024,16,Italy,Q,Qualifying,Oscar Piastri,McLaren,Unsafe Release,1,Fine,0.0,Fine
+2024,16,Italy,R,Race,Daniel Ricciardo,Racing Bulls,Forcing Another Car Off the Track,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2024,16,Italy,FP3,Practice,Lance Stroll,Aston Martin,Failure to Follow Race Director Instructions,0,No further action,0.0,No Further Action
+2024,16,Italy,FP3,Practice,Oscar Piastri,McLaren,Impeding,1,No further action,0.0,No Further Action
+2024,16,Italy,R,Race,Nico Hulkenberg,Haas,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,16,Italy,R,Race,Daniel Ricciardo,Racing Bulls,Failure to Serve Penalty,0,Time Penalty,10.0,10s Penalty
+2024,16,Italy,R,Race,Kevin Magnussen,Haas,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,16,Italy,R,Race,Kevin Magnussen,Haas,Penalty Point Infringement,0,License Suspension,0.0,Drive Through/Stop-Go/DSQ
+2024,17,Azerbaijan,FP2,Practice,Carlos Sainz,Ferrari,Impeding,1,Warning,0.0,Warning/Reprimand
+2024,17,Azerbaijan,FP3,Practice,Sergio Perez,Red Bull,Impeding,1,Warning,0.0,Warning/Reprimand
+2024,17,Azerbaijan,FP3,Practice,Charles Leclerc,Ferrari,Yellow Flag Infringement,0,Reprimand,0.0,Warning/Reprimand
+2024,17,Azerbaijan,Q,Qualifying,Yuki Tsunoda,Racing Bulls,Pit Lane Speeding,0,Fine,0.0,Fine
+2024,17,Azerbaijan,Q,Qualifying,Alexander Albon,Williams,Unsafe Release,0,Fine,0.0,Fine
+2024,17,Azerbaijan,Q,Qualifying,Pierre Gasly,Alpine,Technical Infringement,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2024,17,Azerbaijan,Q,Qualifying,George Russell,Mercedes,Yellow Flag Infringement,0,Reprimand,0.0,Warning/Reprimand
+2024,17,Azerbaijan,R,Race,Carlos Sainz,Ferrari,Causing a Collision,1,No further action,0.0,No Further Action
+2024,17,Azerbaijan,R,Race,Sergio Perez,Red Bull,Causing a Collision,1,No further action,0.0,No Further Action
+2024,17,Azerbaijan,R,Race,Nico Hulkenberg,Haas,Safety Car Infringement,0,Warning,0.0,Warning/Reprimand
+2024,17,Azerbaijan,R,Race,Max Verstappen,Red Bull,Safety Car Infringement,0,Warning,0.0,Warning/Reprimand
+2024,17,Azerbaijan,R,Race,Esteban Ocon,Alpine,Safety Car Infringement,0,Warning,0.0,Warning/Reprimand
+2024,17,Azerbaijan,R,Race,Pierre Gasly,Alpine,Safety Car Infringement,0,Warning,0.0,Warning/Reprimand
+2024,18,Singapore,Pre-Race,Pre-Race,Max Verstappen,Red Bull,Language Infringement,0,Community Service,0.0,Warning/Reprimand
+2024,18,Singapore,FP3,Practice,Charles Leclerc,Ferrari,Failure to Follow Race Director Instructions,0,Fine,0.0,Fine
+2024,18,Singapore,Q,Qualifying,Carlos Sainz,Ferrari,Failure to Follow Race Director Instructions,0,"Warning, Fine",0.0,Fine
+2024,18,Singapore,Q,Qualifying,Carlos Sainz,Ferrari,Crossing the Track without Permission,0,Fine,0.0,Fine
+2024,19,United States,S,Sprint,Oscar Piastri,McLaren,Forcing Another Car Off the Track,1,Time Penalty,5.0,5s Penalty
+2024,19,United States,Q,Qualifying,Pierre Gasly,Alpine,Unsafe Release,1,Fine,0.0,Fine
+2024,19,United States,R,Race,George Russell,Mercedes,Forcing Another Car Off the Track,1,Time Penalty,5.0,5s Penalty
+2024,19,United States,R,Race,Pierre Gasly,Alpine,Leaving the Track and Gaining an Advantage,1,Time Penalty,5.0,5s Penalty
+2024,19,United States,S,Sprint,Yuki Tsunoda,Racing Bulls,Leaving the Track and Gaining an Advantage,1,No further action,0.0,No Further Action
+2024,19,United States,S,Sprint,Kevin Magnussen,Haas,Leaving the Track and Gaining an Advantage,1,No further action,0.0,No Further Action
+2024,19,United States,S,Sprint,Lando Norris,McLaren,Driving Erratically,0,No further action,0.0,No Further Action
+2024,19,United States,Pre-Race,Pre-Race,Alexander Albon,Williams,Media/Fan Activity Infringement,0,No further action,0.0,No Further Action
+2024,19,United States,R,Race,Yuki Tsunoda,Racing Bulls,Forcing Another Car Off the Track,1,Time Penalty,5.0,5s Penalty
+2024,19,United States,R,Race,Lando Norris,McLaren,Forcing Another Car Off the Track,1,Time Penalty,5.0,5s Penalty
+2024,20,Mexico,R,Race,Sergio Perez,Red Bull,False Start,0,Time Penalty,5.0,5s Penalty
+2024,20,Mexico,R,Race,Max Verstappen,Red Bull,Leaving the Track and Gaining an Advantage,1,Time Penalty,10.0,10s Penalty
+2024,20,Mexico,R,Race,Max Verstappen,Red Bull,Forcing Another Car Off the Track,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,20,Mexico,R,Race,Sergio Perez,Red Bull,Forcing Another Car Off the Track,1,No further action,0.0,No Further Action
+2024,20,Mexico,R,Race,Sergio Perez,Red Bull,Forcing Another Car Off the Track,1,No further action,0.0,No Further Action
+2024,20,Mexico,R,Race,Sergio Perez,Red Bull,Leaving the Track and Gaining an Advantage,1,No further action,0.0,No Further Action
+2024,20,Mexico,FP1,Practice,Alexander Albon,Williams,Causing a Collision,1,No further action,0.0,No Further Action
+2024,20,Mexico,FP1,Practice,Oliver Bearman,Ferrari,Causing a Collision,1,No further action,0.0,No Further Action
+2024,20,Mexico,FP1,Practice,Robert Shwartzman,Sauber,Yellow Flag Infringement,0,Grid Penalty,0.0,Grid Penalty
+2024,20,Mexico,R,Race,Franco Colapinto,Williams,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,21,Brazil,Pre-Race,Pre-Race,Charles Leclerc,Ferrari,Language Infringement,0,Fine,0.0,Fine
+2024,21,Brazil,S,Sprint,Max Verstappen,Red Bull,Safety Car Infringement,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2024,21,Brazil,R,Race,Yuki Tsunoda,Racing Bulls,Pit Lane Speeding,0,Fine,0.0,Fine
+2024,21,Brazil,R,Race,Oliver Bearman,Haas,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,21,Brazil,R,Race,Oscar Piastri,McLaren,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,21,Brazil,R,Race,Nico Hulkenberg,Haas,Received Physical Assistance,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2024,21,Brazil,R,Race,Lewis Hamilton,Mercedes,Technical Infringement,0,Fine,0.0,Fine
+2024,21,Brazil,R,Race,George Russell,Mercedes,Technical Infringement,0,Fine,0.0,Fine
+2024,21,Brazil,R,Race,Carlos Sainz,Ferrari,Safety Procedure Infringement,0,Reprimand,0.0,Warning/Reprimand
+2024,21,Brazil,R,Race,Liam Lawson,Racing Bulls,Aborted Start Infringement,0,No further action,0.0,No Further Action
+2024,21,Brazil,R,Race,Yuki Tsunoda,Racing Bulls,Aborted Start Infringement,0,No further action,0.0,No Further Action
+2024,21,Brazil,Pre-Race,Pre-Race,Pierre Gasly,Alpine,Media/Fan Activity Infringement,0,No further action,0.0,No Further Action
+2024,21,Brazil,R,Race,Lando Norris,McLaren,Aborted Start Infringement,0,"Reprimand, Fine",0.0,Fine
+2024,21,Brazil,R,Race,George Russell,Mercedes,Aborted Start Infringement,0,"Reprimand, Fine",0.0,Fine
+2024,22,Las Vegas,FP3,Practice,Fernando Alonso,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2024,22,Las Vegas,R,Race,Oscar Piastri,McLaren,Incorrect Starting Position,0,Time Penalty,5.0,5s Penalty
+2024,23,Qatar,SQ,Qualifying,Sergio Perez,Red Bull,Safety Car Infringement,0,Reprimand,0.0,Warning/Reprimand
+2024,23,Qatar,SQ,Qualifying,Yuki Tsunoda,Racing Bulls,Safety Car Infringement,0,Reprimand,0.0,Warning/Reprimand
+2024,23,Qatar,Q,Qualifying,Carlos Sainz,Ferrari,Unsafe Release,1,Fine,0.0,Fine
+2024,23,Qatar,Q,Qualifying,Max Verstappen,Red Bull,Driving Unnecessarily Slowly,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2024,23,Qatar,R,Race,Lance Stroll,Aston Martin,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,23,Qatar,R,Race,Liam Lawson,Racing Bulls,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,23,Qatar,R,Race,Lewis Hamilton,Mercedes,Pit Lane Speeding,0,Drive through penalty,0.0,Drive Through/Stop-Go/DSQ
+2024,23,Qatar,R,Race,Alexander Albon,Williams,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,23,Qatar,R,Race,Lewis Hamilton,Mercedes,False Start,0,Time Penalty,5.0,5s Penalty
+2024,23,Qatar,R,Race,Lando Norris,McLaren,Yellow Flag Infringement,0,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,23,Qatar,R,Race,Sergio Perez,Red Bull,Dangerous Driving,0,No further action,0.0,No Further Action
+2024,23,Qatar,S,Sprint,Zhou Guanyu,Sauber,Driving Unnecessarily Slowly,0,No further action,0.0,No Further Action
+2024,23,Qatar,R,Race,George Russell,Mercedes,Safety Car Infringement,0,"Time Penalty, Penalty Points",5.0,5s Penalty
+2024,23,Qatar,R,Race,Oscar Piastri,McLaren,Pit Lane Infringement,0,Warning,0.0,Warning/Reprimand
+2024,24,Abu Dhabi,FP1,Practice,Isack Hadjar,Red Bull,Pit Lane Speeding,0,Fine,0.0,Fine
+2024,24,Abu Dhabi,Q,Qualifying,Nico Hulkenberg,Haas,Pit Lane Infringement,0,Grid Penalty,0.0,Grid Penalty
+2024,24,Abu Dhabi,R,Race,Max Verstappen,Red Bull,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,24,Abu Dhabi,R,Race,Valtteri Bottas,Sauber,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,24,Abu Dhabi,R,Race,Oscar Piastri,McLaren,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2024,24,Abu Dhabi,R,Race,Zhou Guanyu,Sauber,False Start,0,Time Penalty,5.0,5s Penalty
+2024,24,Abu Dhabi,R,Race,Valtteri Bottas,Sauber,Causing a Collision,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2024,24,Abu Dhabi,R,Race,Lance Stroll,Aston Martin,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2024,24,Abu Dhabi,R,Race,Liam Lawson,Racing Bulls,Unsafe Release,0,Time Penalty,10.0,10s Penalty
+2024,24,Abu Dhabi,R,Race,Kevin Magnussen,Haas,Failure to Follow Race Director Instructions,0,No further action,0.0,No Further Action
+2024,24,Abu Dhabi,FP1,Practice,Lewis Hamilton,Mercedes,Impeding,1,No further action,0.0,No Further Action
+2025,1,Australia,R,Race,Alexander Albon,Williams,Safety Car Infringement,0,No Penalty Applied,0.0,No Further Action
+2025,1,Australia,R,Race,Fernando Alonso,Aston Martin,Safety Car Infringement,0,No Penalty Applied,0.0,No Further Action
+2025,1,Australia,R,Race,Gabriel Bortoleto,Sauber,Unsafe Release,1,Time Penalty,5.0,5s Penalty
+2025,1,Australia,R,Race,Kimi Antonelli,Mercedes,Unsafe Release,1,Time Penalty,5.0,5s Penalty
+2025,1,Australia,R,Race,Lewis Hamilton,Ferrari,Safety Car Infringement,0,No Penalty Applied,0.0,No Further Action
+2025,1,Australia,R,Race,Yuki Tsunoda,Racing Bulls,Safety Car Infringement,0,No Penalty Applied,0.0,No Further Action
+2025,2,China,SQ,Qualifying,Charles Leclerc,Ferrari,Failure to Follow Race Director Instructions,0,No Further Action,0.0,No Further Action
+2025,2,China,R,Race,Charles Leclerc,Ferrari,Technical Infringement,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2025,2,China,Pre-Race,Pre-Race,Gabriel Bortoleto,Sauber,Practice Start Infringement,0,Warning,0.0,Warning/Reprimand
+2025,2,China,Q,Qualifying,Isack Hadjar,Racing Bulls,Unsafe Release,1,Fine,0.0,Fine
+2025,2,China,S,Sprint,Jack Doohan,Alpine,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2025,2,China,R,Race,Jack Doohan,Alpine,Forcing Another Car Off the Track,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2025,2,China,SQ,Qualifying,Lance Stroll,Aston Martin,Failure to Follow Race Director Instructions,0,No Further Action,0.0,No Further Action
+2025,2,China,R,Race,Lewis Hamilton,Ferrari,Technical Infringement,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2025,2,China,S,Sprint,Liam Lawson,Red Bull,Causing a Collision,1,No Further Action,0.0,No Further Action
+2025,2,China,Pre-Race,Pre-Race,Nico Hulkenberg,Sauber,Practice Start Infringement,0,Warning,0.0,Warning/Reprimand
+2025,2,China,Q,Qualifying,Oliver Bearman,Haas,Impeding,1,No Further Action,0.0,No Further Action
+2025,2,China,R,Race,Pierre Gasly,Alpine,Technical Infringement,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2025,2,China,Pre-Race,Pre-Race,Yuki Tsunoda,Racing Bulls,Practice Start Infringement,0,Warning,0.0,Warning/Reprimand
+2025,3,Japan,FP3,Practice,Carlos Sainz,Williams,Pit Lane Speeding,0,Fine,0.0,Fine
+2025,3,Japan,Q,Qualifying,Carlos Sainz,Williams,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2025,3,Japan,Pre-Race,Pre-Race,Carlos Sainz,Williams,Media/Fan Activity Infringement,0,Fine,0.0,Fine
+2025,3,Japan,FP1,Practice,Kimi Antonelli,Mercedes,Pit Lane Speeding,0,Fine,0.0,Fine
+2025,3,Japan,FP2,Practice,Lance Stroll,Aston Martin,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2025,3,Japan,FP2,Practice,Lewis Hamilton,Ferrari,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2025,3,Japan,FP3,Practice,Max Verstappen,Red Bull,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2025,3,Japan,FP3,Practice,Oscar Piastri,McLaren,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2025,4,Bahrain,FP1,Practice,Alexander Albon,Williams,Impeding,1,Fine,0.0,Fine
+2025,4,Bahrain,R,Race,Carlos Sainz,Williams,Forcing Another Car Off the Track,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2025,4,Bahrain,Q,Qualifying,George Russell,Mercedes,Failure to Follow Race Director Instructions,0,Grid Penalty,0.0,Grid Penalty
+2025,4,Bahrain,R,Race,George Russell,Mercedes,DRS Infringement,0,No Penalty Applied,0.0,No Further Action
+2025,4,Bahrain,R,Race,Jack Doohan,Alpine,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2025,4,Bahrain,Q,Qualifying,Kimi Antonelli,Mercedes,Failure to Follow Race Director Instructions,0,Grid Penalty,0.0,Grid Penalty
+2025,4,Bahrain,R,Race,Lando Norris,McLaren,Incorrect Starting Position,0,Time Penalty,5.0,5s Penalty
+2025,4,Bahrain,R,Race,Liam Lawson,Racing Bulls,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2025,4,Bahrain,R,Race,Liam Lawson,Racing Bulls,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2025,4,Bahrain,Q,Qualifying,Nico Hulkenberg,Sauber,Track Limits Violations,0,Q2 Laptimes deleted,0.0,Warning/Reprimand
+2025,4,Bahrain,R,Race,Nico Hulkenberg,Sauber,Technical Infringement,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2025,4,Bahrain,FP1,Practice,Yuki Tsunoda,Red Bull,Pit Lane Incident,1,Reprimand,0.0,Warning/Reprimand
+2025,5,Saudi Arabia,FP3,Practice,Jack Doohan,Alpine,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2025,5,Saudi Arabia,FP3,Practice,Jack Doohan,Alpine,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2025,5,Saudi Arabia,FP2,Practice,Lewis Hamilton,Ferrari,Impeding,1,No Further Action,0.0,No Further Action
+2025,5,Saudi Arabia,FP1,Practice,Liam Lawson,Racing Bulls,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2025,5,Saudi Arabia,FP1,Practice,Liam Lawson,Racing Bulls,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2025,5,Saudi Arabia,R,Race,Liam Lawson,Racing Bulls,Leaving the Track and Gaining an Advantage,1,Time Penalty,10.0,10s Penalty
+2025,5,Saudi Arabia,R,Race,Max Verstappen,Red Bull,Leaving the Track and Gaining an Advantage,1,Time Penalty,5.0,5s Penalty
+2025,5,Saudi Arabia,R,Race,Yuki Tsunoda,Red Bull,Causing a Collision,1,No Further Action,0.0,No Further Action
+2025,6,Miami,S,Sprint,Alexander Albon,Williams,Safety Car Infringement,0,Time Penalty,5.0,5s Penalty
+2025,6,Miami,Q,Qualifying,Alexander Albon,Williams,Pit Lane Infringement,0,Reprimand,0.0,Warning/Reprimand
+2025,6,Miami,R,Race,Carlos Sainz,Williams,Causing a Collision,1,No Further Action,0.0,No Further Action
+2025,6,Miami,R,Race,Carlos Sainz,Williams,Yellow Flag Infringement,0,Warning,0.0,Warning/Reprimand
+2025,6,Miami,Pre-Race,Pre-Race,Charles Leclerc,Ferrari,Continuing in Unsafe Condition,0,Reprimand,0.0,Warning/Reprimand
+2025,6,Miami,FP1,Practice,Esteban Ocon,Haas,Impeding,1,"Warning, Fine",0.0,Fine
+2025,6,Miami,FP1,Practice,Jack Doohan,Alpine,Pit Lane Speeding,0,Fine,0.0,Fine
+2025,6,Miami,FP1,Practice,Lando Norris,McLaren,Unsafe Release,0,Warning,0.0,Warning/Reprimand
+2025,6,Miami,R,Race,Lewis Hamilton,Ferrari,Causing a Collision,1,No Further Action,0.0,No Further Action
+2025,6,Miami,S,Sprint,Liam Lawson,Racing Bulls,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2025,6,Miami,S,Sprint,Max Verstappen,Red Bull,Unsafe Release,1,Time Penalty,10.0,10s Penalty
+2025,6,Miami,S,Sprint,Oliver Bearman,Haas,Unsafe Release,1,Time Penalty,5.0,5s Penalty
+2025,6,Miami,R,Race,Pierre Gasly,Alpine,Yellow Flag Infringement,0,Warning,0.0,Warning/Reprimand
+2025,6,Miami,R,Race,Yuki Tsunoda,Red Bull,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2025,7,Imola,FP1,Practice,Carlos Sainz,Williams,Pit Lane Speeding,0,Fine,0.0,Fine
+2025,7,Imola,FP1,Practice,Charles Leclerc,Ferrari,Tyre Procedure Infringement,0,Fine,0.0,Fine
+2025,7,Imola,R,Race,Charles Leclerc,Ferrari,Forcing Another Car Off the Track,1,No Further Action,0.0,No Further Action
+2025,7,Imola,FP3,Practice,Franco Colapinto,Alpine,Pit Lane Speeding,0,Fine,0.0,Fine
+2025,7,Imola,Q,Qualifying,Franco Colapinto,Alpine,Failure to Follow Race Director Instructions,0,Grid Penalty,0.0,Grid Penalty
+2025,7,Imola,FP2,Practice,Gabriel Bortoleto,Sauber,Yellow Flag Infringement,1,No Further Action,0.0,No Further Action
+2025,8,Monaco,FP2,Practice,Carlos Sainz,Williams,Red Flag Infringement,1,No Further Action,0.0,No Further Action
+2025,8,Monaco,FP3,Practice,Franco Colapinto,Alpine,Red Flag Infringement,1,No Further Action,0.0,No Further Action
+2025,8,Monaco,R,Race,George Russell,Mercedes,Leaving the Track and Gaining an Advantage,1,Drive Through Penalty,0.0,Drive Through/Stop-Go/DSQ
+2025,8,Monaco,FP2,Practice,Lance Stroll,Aston Martin,Causing a Collision,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2025,8,Monaco,Q,Qualifying,Lance Stroll,Aston Martin,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2025,8,Monaco,Q,Qualifying,Lewis Hamilton,Ferrari,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2025,8,Monaco,FP2,Practice,Oliver Bearman,Haas,Red Flag Infringement,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2025,8,Monaco,Pre-Race,Pre-Race,Oliver Bearman,Haas,Unsafe Release,0,Fine,0.0,Fine
+2025,8,Monaco,R,Race,Pierre Gasly,Alpine,Causing a Collision,1,Reprimand,0.0,Warning/Reprimand
+2025,8,Monaco,FP2,Practice,Yuki Tsunoda,Red Bull,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2025,9,Spain,R,Race,Alexander Albon,Williams,Leaving the Track and Gaining an Advantage,1,Time Penalty,10.0,10s Penalty
+2025,9,Spain,R,Race,Charles Leclerc,Ferrari,Causing a Collision,1,No Further Action,0.0,No Further Action
+2025,9,Spain,Q,Qualifying,Franco Colapinto,Alpine,Continuing in Unsafe Condition,0,No Further Action,0.0,No Further Action
+2025,9,Spain,Q,Qualifying,Lance Stroll,Aston Martin,Technical Infringement,0,Warning,0.0,Warning/Reprimand
+2025,9,Spain,R,Race,Liam Lawson,Racing Bulls,Causing a Collision,1,No Further Action,0.0,No Further Action
+2025,9,Spain,R,Race,Liam Lawson,Racing Bulls,Causing a Collision,1,No Further Action,0.0,No Further Action
+2025,9,Spain,R,Race,Max Verstappen,Red Bull,Leaving the Track and Gaining an Advantage,1,No Further Action,0.0,No Further Action
+2025,9,Spain,R,Race,Max Verstappen,Red Bull,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2025,9,Spain,R,Race,Max Verstappen,Red Bull,Causing a Collision,1,No Further Action,0.0,No Further Action
+2025,9,Spain,R,Race,Oliver Bearman,Haas,Leaving the Track and Gaining an Advantage,1,Time Penalty,10.0,10s Penalty
+2025,10,Canada,FP2,Practice,Alexander Albon,Williams,Pit Lane Speeding,0,Fine,0.0,Fine
+2025,10,Canada,R,Race,Carlos Sainz,Williams,Safety Car Infringement,0,Warning,0.0,Warning/Reprimand
+2025,10,Canada,R,Race,Charles Leclerc,Ferrari,Safety Car Infringement,0,Warning,0.0,Warning/Reprimand
+2025,10,Canada,Q,Qualifying,Esteban Ocon,Haas,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2025,10,Canada,R,Race,Esteban Ocon,Haas,Driving Erratically,1,No Further Action,0.0,No Further Action
+2025,10,Canada,R,Race,Esteban Ocon,Haas,Safety Car Infringement,0,Warning,0.0,Warning/Reprimand
+2025,10,Canada,FP3,Practice,Gabriel Bortoleto,Sauber,Red Flag Infringement,1,No Further Action,0.0,No Further Action
+2025,10,Canada,FP2,Practice,George Russell,Mercedes,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2025,10,Canada,FP3,Practice,George Russell,Mercedes,Pit Lane Speeding,0,Fine,0.0,Fine
+2025,10,Canada,FP3,Practice,George Russell,Mercedes,Pit Lane Speeding,0,Fine,0.0,Fine
+2025,10,Canada,Q,Qualifying,Isack Hadjar,Racing Bulls,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2025,10,Canada,R,Race,Kimi Antonelli,Mercedes,Safety Car Infringement,0,Warning,0.0,Warning/Reprimand
+2025,10,Canada,R,Race,Lance Stroll,Aston Martin,Forcing Another Car Off the Track,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2025,10,Canada,R,Race,Lando Norris,McLaren,Causing a Collision,1,Time Penalty,5.0,5s Penalty
+2025,10,Canada,R,Race,Oliver Bearman,Haas,Failure to Follow Race Director Instructions,1,Warning,0.0,Warning/Reprimand
+2025,10,Canada,FP1,Practice,Oscar Piastri,McLaren,Pit Lane Speeding,0,Fine,0.0,Fine
+2025,10,Canada,R,Race,Oscar Piastri,McLaren,Safety Car Infringement,0,Warning,0.0,Warning/Reprimand
+2025,10,Canada,R,Race,Pierre Gasly,Alpine,Safety Car Infringement,0,Warning,0.0,Warning/Reprimand
+2025,10,Canada,FP3,Practice,Yuki Tsunoda,Red Bull,Red Flag Infringement,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2025,11,Austria,R,Race,Franco Colapinto,Alpine,Forcing Another Car Off the Track,1,No Further Action,0.0,No Further Action
+2025,11,Austria,R,Race,Franco Colapinto,Alpine,Forcing Another Car Off the Track,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2025,11,Austria,Q,Qualifying,George Russell,Mercedes,Pit Lane Incident,0,Reprimand,0.0,Warning/Reprimand
+2025,11,Austria,FP2,Practice,Kimi Antonelli,Mercedes,Pit Lane Speeding,0,Fine,0.0,Fine
+2025,11,Austria,R,Race,Kimi Antonelli,Mercedes,Causing a Collision,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2025,11,Austria,FP2,Practice,Lewis Hamilton,Ferrari,Impeding,1,Warning,0.0,Warning/Reprimand
+2025,11,Austria,R,Race,Yuki Tsunoda,Red Bull,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2025,11,Austria,R,Race,Yuki Tsunoda,Red Bull,Forcing Another Car Off the Track,1,No Further Action,0.0,No Further Action
+2025,12,Great Britain,FP2,Practice,Carlos Sainz,Williams,Dangerous Driving,1,Warning,0.0,Warning/Reprimand
+2025,12,Great Britain,R,Race,Esteban Ocon,Haas,Causing a Collision,1,No Further Action,0.0,No Further Action
+2025,12,Great Britain,R,Race,Isack Hadjar,Racing Bulls,Causing a Collision,1,No Further Action,0.0,No Further Action
+2025,12,Great Britain,FP3,Practice,Oliver Bearman,Haas,Red Flag Infringement,0,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2025,12,Great Britain,R,Race,Oliver Bearman,Haas,Causing a Collision,1,No Further Action,0.0,No Further Action
+2025,12,Great Britain,R,Race,Oscar Piastri,McLaren,Safety Car Infringement,0,"Time Penalty, Penalty Points",10.0,10s Penalty
+2025,12,Great Britain,R,Race,Yuki Tsunoda,Red Bull,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2025,13,Belgium,SQ,Qualifying,George Russell,Mercedes,Driving Unnecessarily Slowly,0,Reprimand,0.0,Warning/Reprimand
+2025,13,Belgium,Q,Qualifying,Nico Hulkenberg,Sauber,Pit Lane Incident,1,No Further Action,0.0,No Further Action
+2025,13,Belgium,SQ,Qualifying,Pierre Gasly,Alpine,Impeding,1,No Further Action,0.0,No Further Action
+2025,13,Belgium,SQ,Qualifying,Yuki Tsunoda,Red Bull,Driving Unnecessarily Slowly,0,Reprimand,0.0,Warning/Reprimand
+2025,14,Hungary,R,Race,Charles Leclerc,Ferrari,Driving Erratically,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2025,14,Hungary,FP2,Practice,Max Verstappen,Red Bull,Unsafe Release,0,Warning,0.0,Warning/Reprimand
+2025,14,Hungary,R,Race,Max Verstappen,Red Bull,Forcing Another Car Off the Track,1,No Further Action,0.0,No Further Action
+2025,14,Hungary,R,Race,Nico Hulkenberg,Sauber,False Start,0,Time Penalty,5.0,5s Penalty
+2025,14,Hungary,R,Race,Pierre Gasly,Alpine,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2025,14,Hungary,R,Race,Yuki Tsunoda,Red Bull,Forcing Another Car Off the Track,1,No Further Action,0.0,No Further Action
+2025,15,Netherlands,R,Race,Carlos Sainz,Williams,Causing a Collision,1,Overturned,0.0,No Further Action
+2025,15,Netherlands,R,Race,Charles Leclerc,Ferrari,Causing a Collision,1,No Further Action,0.0,No Further Action
+2025,15,Netherlands,R,Race,Gabriel Bortoleto,Sauber,Continuing in Unsafe Condition,0,No Further Action,0.0,No Further Action
+2025,15,Netherlands,FP3,Practice,George Russell,Mercedes,Pit Lane Incident,1,"Fine, Warning",0.0,Fine
+2025,15,Netherlands,R,Race,George Russell,Mercedes,Causing a Collision,1,No Further Action,0.0,No Further Action
+2025,15,Netherlands,R,Race,Kimi Antonelli,Mercedes,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2025,15,Netherlands,R,Race,Kimi Antonelli,Mercedes,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2025,15,Netherlands,R,Race,Lewis Hamilton,Ferrari,Yellow Flag Infringement,0,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2025,15,Netherlands,FP2,Practice,Oscar Piastri,McLaren,Pit Lane Incident,1,Fine,0.0,Fine
+2025,16,Italy,R,Race,Carlos Sainz,Williams,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2025,16,Italy,R,Race,Esteban Ocon,Haas,Forcing Another Car Off the Track,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2025,16,Italy,R,Race,Fernando Alonso,Aston Martin,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2025,16,Italy,FP2,Practice,Gabriel Bortoleto,Sauber,Yellow Flag Infringement,1,No Penalty Applied,0.0,No Further Action
+2025,16,Italy,FP3,Practice,Isack Hadjar,Racing Bulls,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2025,16,Italy,R,Race,Kimi Antonelli,Mercedes,Driving Erratically,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2025,16,Italy,R,Race,Lance Stroll,Aston Martin,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2025,16,Italy,R,Race,Oliver Bearman,Haas,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2025,16,Italy,FP2,Practice,Oscar Piastri,McLaren,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2025,17,Azerbaijan,R,Race,Alexander Albon,Williams,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2025,17,Azerbaijan,Q,Qualifying,Esteban Ocon,Haas,Technical Infringement,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2025,17,Azerbaijan,R,Race,Fernando Alonso,Aston Martin,False Start,0,Time Penalty,5.0,5s Penalty
+2025,17,Azerbaijan,Q,Qualifying,Kimi Antonelli,Mercedes,Yellow Flag Infringement,0,Reprimand,0.0,Warning/Reprimand
+2025,17,Azerbaijan,FP3,Practice,Nico Hulkenberg,Sauber,Yellow Flag Infringement,0,No Penalty Applied,0.0,No Further Action
+2025,17,Azerbaijan,FP2,Practice,Oscar Piastri,McLaren,Yellow Flag Infringement,0,Reprimand,0.0,Warning/Reprimand
+2025,17,Azerbaijan,R,Race,Oscar Piastri,McLaren,False Start,0,Time Penalty,5.0,5s Penalty
+2025,18,Singapore,Q,Qualifying,Alexander Albon,Williams,Technical Infringement,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2025,18,Singapore,Pre-Race,Pre-Race,Alexander Albon,Williams,Pit Lane Infringement,0,Reprimand,0.0,Warning/Reprimand
+2025,18,Singapore,Q,Qualifying,Carlos Sainz,Williams,Technical Infringement,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2025,18,Singapore,FP2,Practice,Charles Leclerc,Ferrari,Unsafe Release,1,Fine,0.0,Fine
+2025,18,Singapore,Q,Qualifying,Gabriel Bortoleto,Sauber,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2025,18,Singapore,Q,Qualifying,George Russell,Mercedes,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2025,18,Singapore,FP3,Practice,Lewis Hamilton,Ferrari,Red Flag Infringement,0,No Further Action,0.0,No Further Action
+2025,18,Singapore,R,Race,Lewis Hamilton,Ferrari,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2025,18,Singapore,Q,Qualifying,Nico Hulkenberg,Sauber,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2025,18,Singapore,Q,Qualifying,Yuki Tsunoda,Red Bull,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2025,19,United States,R,Race,Carlos Sainz,Williams,Causing a Collision,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2025,19,United States,Q,Qualifying,Gabriel Bortoleto,Sauber,Pit Lane Speeding,0,Fine,0.0,Fine
+2025,19,United States,S,Sprint,Lance Stroll,Aston Martin,Causing a Collision,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2025,19,United States,S,Sprint,Oliver Bearman,Haas,Leaving the Track and Gaining an Advantage,1,Time Penalty,10.0,10s Penalty
+2025,20,Mexico,FP1,Practice,Arvid Lindblad,Red Bull,Impeding,1,Warning,0.0,Warning/Reprimand
+2025,20,Mexico,R,Race,Carlos Sainz,Williams,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2025,20,Mexico,R,Race,Carlos Sainz,Williams,Pit Lane Speeding,0,Drive Through Penalty,0.0,Drive Through/Stop-Go/DSQ
+2025,20,Mexico,R,Race,Lewis Hamilton,Ferrari,Leaving the Track and Gaining an Advantage,1,Time Penalty,10.0,10s Penalty
+2025,20,Mexico,R,Race,Lewis Hamilton,Ferrari,Failure to Follow Race Director Instructions,0,No Further Action,0.0,No Further Action
+2025,20,Mexico,R,Race,Lewis Hamilton,Ferrari,Causing a Collision,1,No Further Action,0.0,No Further Action
+2025,21,Brazil,SQ,Qualifying,Lewis Hamilton,Ferrari,Yellow Flag Infringement,0,Reprimand,0.0,Warning/Reprimand
+2025,21,Brazil,R,Race,Lewis Hamilton,Ferrari,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2025,21,Brazil,S,Sprint,Liam Lawson,Racing Bulls,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2025,21,Brazil,S,Sprint,Oliver Bearman,Haas,Dangerous Driving,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2025,21,Brazil,R,Race,Oscar Piastri,McLaren,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2025,21,Brazil,R,Race,Yuki Tsunoda,Red Bull,Causing a Collision,1,"Time Penalty, Penalty Points",10.0,10s Penalty
+2025,21,Brazil,R,Race,Yuki Tsunoda,Red Bull,Failure to Serve Penalty,0,Time Penalty,10.0,10s Penalty
+2025,22,Las Vegas,R,Race,Alexander Albon,Williams,Causing a Collision,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2025,22,Las Vegas,Pre-Race,Pre-Race,Alexander Albon,Williams,Pit Lane Speeding,0,Reprimand,0.0,Warning/Reprimand
+2025,22,Las Vegas,Q,Qualifying,Carlos Sainz,Williams,Leaving the Track and Rejoining Unsafely,1,No Further Action,0.0,No Further Action
+2025,22,Las Vegas,FP2,Practice,Charles Leclerc,Ferrari,Technical Infringement,0,No Further Action,0.0,No Further Action
+2025,22,Las Vegas,Q,Qualifying,Franco Colapinto,Alpine,Tyre Procedure Infringement,0,Fine,0.0,Fine
+2025,22,Las Vegas,FP1,Practice,Gabriel Bortoleto,Sauber,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2025,22,Las Vegas,R,Race,Gabriel Bortoleto,Sauber,Causing a Collision,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2025,22,Las Vegas,Q,Qualifying,George Russell,Mercedes,Technical Infringement,0,No Further Action,0.0,No Further Action
+2025,22,Las Vegas,Q,Qualifying,Kimi Antonelli,Mercedes,Technical Infringement,0,No Further Action,0.0,No Further Action
+2025,22,Las Vegas,R,Race,Kimi Antonelli,Mercedes,False Start,0,Time Penalty,5.0,5s Penalty
+2025,22,Las Vegas,R,Race,Lando Norris,McLaren,Technical Infringement,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2025,22,Las Vegas,FP3,Practice,Lewis Hamilton,Ferrari,Pit Lane Speeding,0,Fine,0.0,Fine
+2025,22,Las Vegas,R,Race,Liam Lawson,Racing Bulls,Causing a Collision,1,No Further Action,0.0,No Further Action
+2025,22,Las Vegas,R,Race,Oscar Piastri,McLaren,Technical Infringement,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2025,23,Qatar,Q,Qualifying,Alexander Albon,Williams,Pit Lane Incident,1,No Further Action,0.0,No Further Action
+2025,23,Qatar,Q,Qualifying,Carlos Sainz,Williams,Unsafe Release,0,Fine,0.0,Fine
+2025,23,Qatar,R,Race,Esteban Ocon,Haas,False Start,0,Time Penalty,5.0,5s Penalty
+2025,23,Qatar,R,Race,Isack Hadjar,Racing Bulls,Continuing in Unsafe Condition,0,No Further Action,0.0,No Further Action
+2025,23,Qatar,S,Sprint,Kimi Antonelli,Mercedes,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2025,23,Qatar,R,Race,Lance Stroll,Aston Martin,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2025,23,Qatar,SQ,Qualifying,Nico Hulkenberg,Sauber,Failure to Follow Race Director Instructions,0,No Penalty Applied,0.0,No Further Action
+2025,23,Qatar,R,Race,Nico Hulkenberg,Sauber,Causing a Collision,1,No Further Action,0.0,No Further Action
+2025,23,Qatar,R,Race,Oliver Bearman,Haas,Unsafe Release,0,10 Second Stop and Go,0.0,Drive Through/Stop-Go/DSQ
+2025,23,Qatar,S,Sprint,Yuki Tsunoda,Red Bull,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2025,24,Abu Dhabi,FP3,Practice,Alexander Albon,Williams,Unsafe Release,1,Fine,0.0,Fine
+2025,24,Abu Dhabi,R,Race,Alexander Albon,Williams,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2025,24,Abu Dhabi,Pre-Race,Pre-Race,Fernando Alonso,Aston Martin,Media/Fan Activity Infringement,0,Fine,0.0,Fine
+2025,24,Abu Dhabi,FP3,Practice,Kimi Antonelli,Mercedes,Unsafe Release,1,Fine,0.0,Fine
+2025,24,Abu Dhabi,Pre-Race,Pre-Race,Lance Stroll,Aston Martin,Media/Fan Activity Infringement,0,Fine,0.0,Fine
+2025,24,Abu Dhabi,R,Race,Lance Stroll,Aston Martin,Driving Erratically,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2025,24,Abu Dhabi,R,Race,Lando Norris,McLaren,Leaving the Track and Gaining an Advantage,1,No Further Action,0.0,No Further Action
+2025,24,Abu Dhabi,R,Race,Liam Lawson,Racing Bulls,Driving Erratically,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2025,24,Abu Dhabi,R,Race,Nico Hulkenberg,Sauber,Causing a Collision,1,No Further Action,0.0,No Further Action
+2025,24,Abu Dhabi,R,Race,Oliver Bearman,Haas,Driving Erratically,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2025,24,Abu Dhabi,R,Race,Pierre Gasly,Alpine,Causing a Collision,1,No Further Action,0.0,No Further Action
+2025,24,Abu Dhabi,R,Race,Pierre Gasly,Alpine,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2025,24,Abu Dhabi,FP3,Practice,Yuki Tsunoda,Red Bull,Impeding,1,"Warning, Fine",0.0,Fine
+2025,24,Abu Dhabi,R,Race,Yuki Tsunoda,Red Bull,Driving Erratically,1,"Time Penalty, Penalty Points",5.0,5s Penalty
+2026,1,Australia,FP2,Practice,George Russell,Mercedes,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2026,1,Australia,FP2,Practice,George Russell,Mercedes,Pit Lane Incident,1,Reprimand,0.0,Warning/Reprimand
+2026,1,Australia,FP2,Practice,Franco Colapinto,Alpine,Driving Unnecessarily Slowly,1,No Further Action,0.0,No Further Action
+2026,1,Australia,Q,Qualifying,Kimi Antonelli,Mercedes,Unsafe Release,0,Fine,0.0,Fine
+2026,1,Australia,Q,Qualifying,Pierre Gasly,Alpine,Unsafe Release,0,Fine,0.0,Fine
+2026,1,Australia,Q,Qualifying,Kimi Antonelli,Mercedes,Pit Lane Incident,0,No Further Action,0.0,No Further Action
+2026,1,Australia,Pre-Race,Pre-Race,Nico Hulkenberg,Audi,Start Procedure Infringement,0,No Further Action,0.0,No Further Action
+2026,1,Australia,Pre-Race,Pre-Race,Franco Colapinto,Alpine,Grid Procedure Infringement,0,Stop-and-Go,0.0,Drive Through/Stop-Go/DSQ
+2026,1,Australia,R,Race,Esteban Ocon,Haas,Causing a Collision,1,No Further Action,0.0,No Further Action
+2026,1,Australia,R,Race,Pierre Gasly,Alpine,Causing a Collision,1,No Further Action,0.0,No Further Action
+2026,1,Australia,R,Race,Esteban Ocon,Haas,Driving Unnecessarily Slowly,0,No Further Action,0.0,No Further Action
+2026,1,Australia,R,Race,Sergio Perez,Cadillac,Forcing Another Car Off the Track,1,No Further Action,0.0,No Further Action
+2026,2,China,FP1,Practice,Alexander Albon,Williams,Practice Start Infringement,1,Reprimand,0.0,Warning/Reprimand
+2026,2,China,SQ,Qualifying,Kimi Antonelli,Mercedes,Impeding,1,No Further Action,0.0,No Further Action
+2026,2,China,SQ,Qualifying,Pierre Gasly,Alpine,Impeding,1,No Further Action,0.0,No Further Action
+2026,2,China,S,Sprint,Kimi Antonelli,Mercedes,Causing a Collision,1,Time Penalty,10.0,10s Penalty
+2026,2,China,S,Sprint,Sergio Perez,Cadillac,Safety Car Infringement,0,Time Penalty,5.0,5s Penalty
+2026,2,China,S,Sprint,Isack Hadjar,Red Bull,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2026,2,China,Pre-Race,Pre-Race,Pierre Gasly,Alpine,Unsafe Release,0,Fine,0.0,Fine
+2026,2,China,R,Race,Esteban Ocon,Haas,Causing a Collision,1,Time Penalty,10.0,10s Penalty
+2026,3,Japan,FP1,Practice,Liam Lawson,Racing Bulls,Dangerous Driving,1,No Further Action,0.0,No Further Action
+2026,3,Japan,FP1,Practice,Alexander Albon,Williams,Causing a Collision,1,No Further Action,0.0,No Further Action
+2026,3,Japan,FP1,Practice,Lewis Hamilton,Ferrari,Impeding,1,No Further Action,0.0,No Further Action
+2026,3,Japan,FP2,Practice,Franco Colapinto,Alpine,Impeding,1,Warning,0.0,Warning/Reprimand
+2026,3,Japan,FP3,Practice,Oscar Piastri,McLaren,Impeding,1,Warning,0.0,Warning/Reprimand
+2026,4,Miami,FP1,Practice,Charles Leclerc,Ferrari,Pit Lane Speeding,0,Fine,0.0,Fine
+2026,4,Miami,SQ,Qualifying,Alexander Albon,Williams,Track Limits Violations,0,Grid Penalty,5.0,Grid Penalty
+2026,4,Miami,SQ,Qualifying,Lando Norris,McLaren,Failure to Follow Race Director Instructions,0,No Further Action,0.0,No Further Action
+2026,4,Miami,S,Sprint,Kimi Antonelli,Mercedes,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2026,4,Miami,S,Sprint,Gabriel Bortoleto,Audi,Technical Infringement,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2026,4,Miami,Q,Qualifying,Isack Hadjar,Red Bull,Technical Infringement,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2026,4,Miami,R,Race,Valtteri Bottas,Cadillac,Pit Lane Speeding,0,Drive Through Penalty,0.0,Drive Through/Stop-Go/DSQ
+2026,4,Miami,R,Race,Esteban Ocon,Haas,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2026,4,Miami,R,Race,Alexander Albon,Williams,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2026,4,Miami,R,Race,Fernando Alonso,Aston Martin,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2026,4,Miami,R,Race,Max Verstappen,Red Bull,Causing a Collision,1,No Further Action,0.0,No Further Action
+2026,4,Miami,R,Race,George Russell,Mercedes,Causing a Collision,1,No Further Action,0.0,No Further Action
+2026,4,Miami,R,Race,Charles Leclerc,Ferrari,Track Limits Violations,0,Time Penalty,20.0,Drive Through/Stop-Go/DSQ
+2026,4,Miami,R,Race,Max Verstappen,Red Bull,Pit Lane Infringement,0,Time Penalty,5.0,5s Penalty
+2026,4,Miami,R,Race,Liam Lawson,Racing Bulls,Causing a Collision,1,No Further Action,0.0,No Further Action
+2026,5,Canada,FP1,Practice,Charles Leclerc,Ferrari,Pit Lane Speeding,0,Fine,0.0,Fine
+2026,5,Canada,FP1,Practice,Esteban Ocon,Haas,Pit Lane Infringement,0,No Further Action,0.0,No Further Action
+2026,5,Canada,FP1,Practice,Liam Lawson,Racing Bulls,Technical Infringement,0,Fine,0.0,Fine
+2026,5,Canada,SQ,Qualifying,Arvid Lindblad,Racing Bulls,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2026,5,Canada,SQ,Qualifying,Kimi Antonelli,Mercedes,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2026,5,Canada,S,Sprint,Lance Stroll,Aston Martin,Start Procedure Infringement,0,No Further Action,0.0,No Further Action
+2026,5,Canada,S,Sprint,Nico Hulkenberg,Audi,Leaving the Track and Gaining an Advantage,1,Time Penalty,10.0,10s Penalty
+2026,5,Canada,S,Sprint,Sergio Perez,Cadillac,Forcing Another Car Off the Track,1,Time Penalty,10.0,10s Penalty
+2026,5,Canada,S,Sprint,Lewis Hamilton,Ferrari,Leaving the Track and Gaining an Advantage,1,No Further Action,0.0,No Further Action
+2026,5,Canada,S,Sprint,Esteban Ocon,Haas,Technical Infringement,0,No Further Action,0.0,No Further Action
+2026,5,Canada,Q,Qualifying,Fernando Alonso,Aston Martin,Unsafe Release,1,Fine,0.0,Fine
+2026,5,Canada,Q,Qualifying,Lance Stroll,Aston Martin,Unsafe Release,0,Fine,0.0,Fine
+2026,5,Canada,Q,Qualifying,Sergio Perez,Cadillac,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2026,5,Canada,Q,Qualifying,Lewis Hamilton,Ferrari,Impeding,1,No Further Action,0.0,No Further Action
+2026,5,Canada,Q,Qualifying,Lance Stroll,Aston Martin,Impeding,1,No Further Action,0.0,No Further Action
+2026,5,Canada,R,Race,Nico Hulkenberg,Audi,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2026,5,Canada,R,Race,Valtteri Bottas,Cadillac,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2026,5,Canada,R,Race,Gabriel Bortoleto,Audi,Driving Unnecessarily Slowly,0,Time Penalty,5.0,5s Penalty
+2026,5,Canada,R,Race,Nico Hulkenberg,Audi,Start Procedure Infringement,0,Stop-and-Go,0.0,Drive Through/Stop-Go/DSQ
+2026,5,Canada,R,Race,Oscar Piastri,McLaren,Causing a Collision,1,Time Penalty,10.0,10s Penalty
+2026,5,Canada,R,Race,Sergio Perez,Cadillac,Blue Flag Infringement,0,No Further Action,0.0,No Further Action
+2026,5,Canada,R,Race,Liam Lawson,Racing Bulls,Start Procedure Infringement,1,Reprimand,0.0,Warning/Reprimand
+2026,5,Canada,R,Race,George Russell,Mercedes,Unsafe Act,0,Fine,0.0,Fine
+2026,5,Canada,R,Race,Isack Hadjar,Red Bull,Yellow Flag Infringement,0,10 Second Stop and Go,0.0,Drive Through/Stop-Go/DSQ
+2026,6,Monaco,FP1,Practice,George Russell,Mercedes,Pit Lane Speeding,0,Fine,0.0,Fine
+2026,6,Monaco,FP1,Practice,Charles Leclerc,Ferrari,Impeding,1,Warning,0.0,Warning/Reprimand
+2026,6,Monaco,FP1,Practice,Arvid Lindblad,Racing Bulls,Impeding,1,Warning,0.0,Warning/Reprimand
+2026,6,Monaco,FP1,Practice,Liam Lawson,Racing Bulls,Pit Lane Infringement,0,No Further Action,0.0,No Further Action
+2026,6,Monaco,FP2,Practice,Fernando Alonso,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2026,6,Monaco,FP2,Practice,Kimi Antonelli,Mercedes,Pit Lane Speeding,0,Fine,0.0,Fine
+2026,6,Monaco,FP2,Practice,Lando Norris,McLaren,Technical Infringement,0,Fine,0.0,Fine
+2026,6,Monaco,FP3,Practice,Franco Colapinto,Alpine,Pit Lane Speeding,0,Fine,0.0,Fine
+2026,6,Monaco,FP3,Practice,Alexander Albon,Williams,Pit Lane Speeding,0,Fine,0.0,Fine
+2026,6,Monaco,Q,Qualifying,Alexander Albon,Williams,Pit Lane Incident,1,Fine,0.0,Fine
+2026,6,Monaco,Q,Qualifying,Nico Hulkenberg,Audi,Failure to Follow Race Director Instructions,1,Warning,0.0,Warning/Reprimand
+2026,6,Monaco,R,Race,Sergio Perez,Cadillac,False Start,0,Drive Through Penalty,0.0,Drive Through/Stop-Go/DSQ
+2026,6,Monaco,R,Race,Lewis Hamilton,Ferrari,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2026,6,Monaco,R,Race,George Russell,Mercedes,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2026,6,Monaco,R,Race,Franco Colapinto,Alpine,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2026,6,Monaco,R,Race,Pierre Gasly,Alpine,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2026,6,Monaco,R,Race,Oscar Piastri,McLaren,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2026,6,Monaco,R,Race,Pierre Gasly,Alpine,Pit Lane Speeding,0,Overturned on Review,0.0,No Further Action
+2026,6,Monaco,R,Race,Lance Stroll,Aston Martin,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2026,6,Monaco,R,Race,Sergio Perez,Cadillac,False Start,0,Time Penalty,10.0,10s Penalty
+2026,6,Monaco,R,Race,Isack Hadjar,Red Bull,Red Flag Infringement,0,No Further Action,0.0,No Further Action
+2026,6,Monaco,R,Race,Isack Hadjar,Red Bull,Safety Car Infringement,0,No Further Action,0.0,No Further Action
+2026,6,Monaco,R,Race,Lewis Hamilton,Ferrari,Safety Car Infringement,0,No Further Action,0.0,No Further Action
+2026,6,Monaco,Pre-Race,Pre-Race,Sergio Perez,Cadillac,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2026,6,Monaco,R,Race,Nico Hulkenberg,Audi,Causing a Collision,1,Time Penalty,10.0,10s Penalty
+2026,6,Monaco,R,Race,Franco Colapinto,Alpine,Causing a Collision,1,No Further Action,0.0,No Further Action
+2026,6,Monaco,R,Race,George Russell,Mercedes,Failure to Serve Penalty,0,Drive Through Penalty,0.0,Drive Through/Stop-Go/DSQ
+2026,7,Spain,FP2,Practice,Fernando Alonso,Aston Martin,Pit Lane Infringement,0,Warning,0.0,Warning/Reprimand
+2026,7,Spain,FP2,Practice,Valtteri Bottas,Cadillac,Pit Lane Speeding,0,Fine,0.0,Fine
+2026,7,Spain,FP2,Practice,Sergio Perez,Cadillac,Pit Lane Speeding,0,Fine,0.0,Fine
+2026,7,Spain,FP3,Practice,Lance Stroll,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2026,7,Spain,FP3,Practice,Kimi Antonelli,Mercedes,Driving Erratically,0,Reprimand,0.0,Warning/Reprimand
+2026,7,Spain,FP3,Practice,Charles Leclerc,Ferrari,Impeding,1,Warning,0.0,Warning/Reprimand
+2026,7,Spain,R,Race,Nico Hulkenberg,Audi,Leaving the Track and Gaining an Advantage,0,No Further Action,0.0,No Further Action
+2026,7,Spain,R,Race,Arvid Lindblad,Racing Bulls,Leaving the Track and Gaining an Advantage,0,No Further Action,0.0,No Further Action
+2026,7,Spain,R,Race,Franco Colapinto,Alpine,Yellow Flag Infringement,0,"Time Penalty, Penalty Points",10.0,10s Penalty
+2026,7,Spain,R,Race,Alexander Albon,Williams,Start Procedure Infringement,0,Fine,0.0,Fine
+2026,7,Spain,R,Race,Carlos Sainz,Williams,Start Procedure Infringement,0,Fine,0.0,Fine
+2026,7,Spain,R,Race,Kimi Antonelli,Mercedes,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2026,8,Austria,R,Race,Fernando Alonso,Aston Martin,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2026,8,Austria,Q,Qualifying,Isack Hadjar,Red Bull,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2026,8,Austria,Pre-Race,Pre-Race,Oscar Piastri,McLaren,Failure to Follow Race Director Instructions,0,No Further Action,0.0,No Further Action
+2026,8,Austria,R,Race,Liam Lawson,Racing Bulls,Failure to Follow Race Director Instructions,0,No Further Action,0.0,No Further Action
+2026,8,Austria,R,Race,Alexander Albon,Williams,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2026,8,Austria,R,Race,Lance Stroll,Aston Martin,Blue Flag Infringement,0,No Further Action,0.0,No Further Action
+2026,8,Austria,R,Race,Fernando Alonso,Aston Martin,Blue Flag Infringement,0,No Further Action,0.0,No Further Action
+2026,8,Austria,R,Race,Sergio Perez,Cadillac,False Start,0,No Further Action,0.0,No Further Action
+2026,8,Austria,Q,Qualifying,George Russell,Mercedes,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2026,9,Great Britain,R,Race,Carlos Sainz,Williams,Safety Car Infringement,0,Penalty Lap,0.0,Drive Through/Stop-Go/DSQ
+2026,9,Great Britain,R,Race,Lewis Hamilton,Ferrari,Yellow Flag Infringement,0,Reprimand,0.0,Warning/Reprimand
+2026,9,Great Britain,R,Race,Lewis Hamilton,Ferrari,False Start,0,Time Penalty,5.0,5s Penalty
+2026,9,Great Britain,Q,Qualifying,Arvid Lindblad,Racing Bulls,Unsafe Release,0,Fine,0.0,Fine
+2026,9,Great Britain,SQ,Qualifying,Arvid Lindblad,Racing Bulls,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2026,9,Great Britain,S,Sprint,Liam Lawson,Racing Bulls,Driving Erratically,0,Warning,0.0,Warning/Reprimand
+2026,9,Great Britain,S,Sprint,Nico Hulkenberg,Audi,Leaving the Track and Gaining an Advantage,1,Time Penalty,5.0,5s Penalty
+2026,9,Great Britain,SQ,Qualifying,Alexander Albon,Williams,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2026,9,Great Britain,R,Race,Alexander Albon,Williams,Causing a Collision,1,Time Penalty,10.0,10s Penalty
+2026,9,Great Britain,R,Race,Lance Stroll,Aston Martin,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2026,9,Great Britain,R,Race,Lance Stroll,Aston Martin,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2026,9,Great Britain,R,Race,Lance Stroll,Aston Martin,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2026,9,Great Britain,R,Race,Kimi Antonelli,Mercedes,Track Limits Violations,0,Time Penalty,5.0,5s Penalty
+2026,9,Great Britain,S,Sprint,Sergio Perez,Cadillac,Causing a Collision,1,Time Penalty,10.0,10s Penalty
+2026,9,Great Britain,Q,Qualifying,Pierre Gasly,Alpine,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2026,9,Great Britain,Q,Qualifying,Esteban Ocon,Haas,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2026,10,Belgium,FP1,Practice,Carlos Sainz,Williams,Pit Lane Infringement,0,Reprimand,0.0,Warning/Reprimand
+2026,10,Belgium,Pre-Race,Pre-Race,Esteban Ocon,Haas,Media/Fan Activity Infringement,0,Fine,0.0,Fine
+2026,10,Belgium,R,Race,Lewis Hamilton,Ferrari,Causing a Collision,1,Time Penalty,5.0,5s Penalty
+2026,10,Belgium,FP1,Practice,Jak Crawford,Aston Martin,Pit Lane Speeding,0,Fine,0.0,Fine
+2026,10,Belgium,R,Race,Charles Leclerc,Ferrari,Causing a Collision,1,No Further Action,0.0,No Further Action
+2026,10,Belgium,FP3,Practice,Carlos Sainz,Williams,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2026,10,Belgium,Pre-Race,Pre-Race,Alexander Albon,Williams,Unsafe Release,0,Reprimand,0.0,Warning/Reprimand
+2026,10,Belgium,FP1,Practice,Nico Hulkenberg,Audi,Yellow Flag Infringement,0,Reprimand,0.0,Warning/Reprimand
+2026,10,Belgium,FP2,Practice,Charles Leclerc,Ferrari,Technical Infringement,0,Fine,0.0,Fine
+2026,10,Belgium,R,Race,Lewis Hamilton,Ferrari,Unsafe Release,0,Fine,0.0,Fine
+2026,11,Hungary,R,Race,Sergio Perez,Cadillac,Pit Lane Infringement,0,Warning,0.0,Warning/Reprimand
+2026,11,Hungary,FP1,Practice,Isack Hadjar,Red Bull,Pit Lane Speeding,0,Fine,0.0,Fine
+2026,11,Hungary,FP1,Practice,Carlos Sainz,Williams,Driving Erratically,1,No Further Action,0.0,No Further Action
+2026,11,Hungary,Q,Qualifying,Kimi Antonelli,Mercedes,Driving Unnecessarily Slowly,0,Warning,0.0,Warning/Reprimand
+2026,11,Hungary,Q,Qualifying,Kimi Antonelli,Mercedes,Yellow Flag Infringement,0,"Grid Penalty, Penalty Point",0.0,Grid Penalty
+2026,11,Hungary,Q,Qualifying,Lewis Hamilton,Ferrari,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2026,11,Hungary,R,Race,Lewis Hamilton,Ferrari,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2026,11,Hungary,FP1,Practice,Carlos Sainz,Williams,Impeding,1,Warning,0.0,Warning/Reprimand
+2026,11,Hungary,R,Race,Carlos Sainz,Williams,Causing a Collision,1,Time Penalty,5.0,5s Penalty
+2026,11,Hungary,R,Race,Oliver Bearman,Haas,Blue Flag Infringement,0,Time Penalty,5.0,5s Penalty
+2026,11,Hungary,R,Race,Charles Leclerc,Ferrari,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2026,11,Hungary,FP1,Practice,Max Verstappen,Red Bull,Driving Erratically,0,No Further Action,0.0,No Further Action
+2026,12,Netherlands,Q,Qualifying,Pierre Gasly,Alpine,Unsafe Release,1,No Further Action,0.0,No Further Action
+2026,12,Netherlands,S,Sprint,Max Verstappen,Red Bull,Failure to Follow Race Director Instructions,0,No Further Action,0.0,No Further Action
+2026,12,Netherlands,R,Race,Gabriel Bortoleto,Audi,Pit Lane Infringement,0,Reprimand,0.0,Warning/Reprimand
+2026,12,Netherlands,S,Sprint,Gabriel Bortoleto,Audi,Unsafe Release,1,Warning,0.0,Warning/Reprimand
+2026,12,Netherlands,S,Sprint,Lance Stroll,Aston Martin,Failure to Follow Race Director Instructions,0,No Further Action,0.0,No Further Action
+2026,12,Netherlands,S,Sprint,Yuki Tsunoda,Racing Bulls,Failure to Follow Race Director Instructions,0,No Further Action,0.0,No Further Action
+2026,12,Netherlands,R,Race,Liam Lawson,Red Bull,Yellow Flag Infringement,0,"Time Penalty, Penalty Points",10.0,10s Penalty
+2026,12,Netherlands,R,Race,Arvid Lindblad,Racing Bulls,Yellow Flag Infringement,1,"Drive Through Penalty, Penalty Points",0.0,Drive Through/Stop-Go/DSQ
+2026,12,Netherlands,R,Race,Franco Colapinto,Alpine,Yellow Flag Infringement,0,"Time Penalty, Penalty Points",10.0,10s Penalty
+2026,12,Netherlands,R,Race,Franco Colapinto,Alpine,Yellow Flag Infringement,1,"Drive Through Penalty, Penalty Points",0.0,Drive Through/Stop-Go/DSQ
+2026,12,Netherlands,S,Sprint,Lewis Hamilton,Ferrari,Failure to Follow Race Director Instructions,0,No Further Action,0.0,No Further Action
+2026,12,Netherlands,R,Race,Carlos Sainz,Williams,Causing a Collision,1,Time Penalty,10.0,10s Penalty
+2026,12,Netherlands,S,Sprint,Valtteri Bottas,Cadillac,Failure to Follow Race Director Instructions,0,No Further Action,0.0,No Further Action
+2026,12,Netherlands,R,Race,Oliver Bearman,Haas,Pit Lane Infringement,0,Reprimand,0.0,Warning/Reprimand
+2026,12,Netherlands,SQ,Qualifying,Carlos Sainz,Williams,Driving Unnecessarily Slowly,0,Warning,0.0,Warning/Reprimand
+2026,13,Italy,FP3,Practice,Alexander Albon,Williams,Yellow Flag Infringement,0,Reprimand,0.0,Warning/Reprimand
+2026,13,Italy,FP1,Practice,Colton Herta,Cadillac,Technical Infringement,0,Fine,0.0,Fine
+2026,13,Italy,R,Race,Yuki Tsunoda,Racing Bulls,Start Procedure Infringement,0,No Further Action,0.0,No Further Action
+2026,13,Italy,R,Race,Liam Lawson,Red Bull,Forcing Another Car Off the Track,1,No Further Action,0.0,No Further Action
+2026,13,Italy,R,Race,George Russell,Mercedes,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2026,13,Italy,Pre-Race,Pre-Race,Sergio Perez,Cadillac,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2026,13,Italy,R,Race,Sergio Perez,Cadillac,Failure to Follow Race Director Instructions,0,Time Penalty,5.0,5s Penalty
+2026,13,Italy,FP2,Practice,Kimi Antonelli,Mercedes,Pit Lane Speeding,0,Fine,0.0,Fine
+2026,13,Italy,FP2,Practice,Lance Stroll,Aston Martin,Impeding,1,Warning,0.0,Warning/Reprimand
+2026,13,Italy,FP3,Practice,Alexander Albon,Williams,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2026,13,Italy,Pre-Race,Pre-Race,Franco Colapinto,Alpine,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2026,13,Italy,FP3,Practice,Carlos Sainz,Williams,Yellow Flag Infringement,0,No Further Action,0.0,No Further Action
+2026,13,Italy,Q,Qualifying,Oscar Piastri,McLaren,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2026,14,Madrid,FP1,Practice,Sergio Perez,Cadillac,Pit Lane Speeding,0,Fine,0.0,Fine
+2026,14,Madrid,FP1,Practice,Sergio Perez,Cadillac,Pit Lane Speeding,0,Fine,0.0,Fine
+2026,14,Madrid,FP1,Practice,Alexander Albon,Williams,Leaving the Track and Rejoining Unsafely,1,Warning,0.0,Warning/Reprimand
+2026,14,Madrid,FP3,Practice,Valtteri Bottas,Cadillac,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2026,14,Madrid,Q,Qualifying,Lando Norris,McLaren,Pit Lane Speeding,0,Fine,0.0,Fine
+2026,14,Madrid,Q,Qualifying,Carlos Sainz,Williams,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2026,14,Madrid,Q,Qualifying,Gabriel Bortoleto,Audi,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2026,14,Madrid,Q,Qualifying,Kimi Antonelli,Mercedes,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2026,14,Madrid,Q,Qualifying,George Russell,Mercedes,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2026,14,Madrid,Q,Qualifying,Charles Leclerc,Ferrari,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2026,14,Madrid,Pre-Race,Pre-Race,Yuki Tsunoda,Racing Bulls,Pit Lane Speeding,0,Fine,0.0,Fine
+2026,14,Madrid,R,Race,Carlos Sainz,Williams,Causing a Collision,1,Time Penalty,5.0,5s Penalty
+2026,14,Madrid,R,Race,Pierre Gasly,Alpine,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2026,14,Madrid,R,Race,Gabriel Bortoleto,Audi,Dangerous Driving,1,Warning,0.0,Warning/Reprimand
+2026,15,Azerbaijan,FP1,Practice,Valtteri Bottas,Cadillac,Yellow Flag Infringement,1,No Further Action,0.0,No Further Action
+2026,15,Azerbaijan,FP2,Practice,Lewis Hamilton,Ferrari,Impeding,1,Reprimand,0.0,Warning/Reprimand
+2026,15,Azerbaijan,FP3,Practice,Carlos Sainz,Williams,Yellow Flag Infringement,0,Reprimand,0.0,Warning/Reprimand
+2026,15,Azerbaijan,FP3,Practice,Arvid Lindblad,Racing Bulls,Leaving the Track and Gaining an Advantage,0,Reprimand,0.0,Warning/Reprimand
+2026,15,Azerbaijan,Q,Qualifying,Sergio Perez,Cadillac,Impeding,1,Grid Penalty,0.0,Grid Penalty
+2026,15,Azerbaijan,Q,Qualifying,Carlos Sainz,Williams,Yellow Flag Infringement,0,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2026,15,Azerbaijan,R,Race,Franco Colapinto,Alpine,Causing a Collision,1,Grid Penalty,0.0,Grid Penalty
+2026,15,Azerbaijan,R,Race,Arvid Lindblad,Racing Bulls,Causing a Collision,1,No Further Action,0.0,No Further Action
+2026,15,Azerbaijan,R,Race,Gabriel Bortoleto,Audi,Yellow Flag Infringement,1,Time Penalty,10.0,10s Penalty
+2026,15,Azerbaijan,R,Race,Valtteri Bottas,Cadillac,Unsafe Act,0,No Further Action,0.0,No Further Action
+2026,15,Azerbaijan,Pre-Race,Pre-Race,Isack Hadjar,Red Bull,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2026,15,Azerbaijan,Pre-Race,Pre-Race,Carlos Sainz,Williams,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2026,16,Malaysia,FP2,Practice,Lewis Hamilton,Ferrari,Impeding,1,"Warning, Fine",0.0,Fine
+2026,16,Malaysia,Q,Qualifying,Lance Stroll,Aston Martin,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2026,16,Malaysia,Q,Qualifying,Lance Stroll,Aston Martin,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2026,16,Malaysia,Pre-Race,Pre-Race,Carlos Sainz,Williams,Pit Lane Speeding,0,Fine,0.0,Fine
+2026,16,Malaysia,R,Race,Gabriel Bortoleto,Audi,Causing a Collision,1,Time Penalty,10.0,10s Penalty
+2026,16,Malaysia,R,Race,Alexander Albon,Williams,Driving Erratically,1,No Further Action,0.0,No Further Action
+2026,16,Malaysia,R,Race,Nico Hulkenberg,Audi,Unsafe Release,0,Fine,0.0,Fine
+2026,16,Malaysia,R,Race,Lando Norris,McLaren,Driving Erratically,1,Reprimand,0.0,Warning/Reprimand
+2026,17,Singapore,SQ,Qualifying,Max Verstappen,Red Bull,Yellow Flag Infringement,1,No Further Action,0.0,No Further Action
+2026,17,Singapore,S,Sprint,Sergio Perez,Cadillac,Causing a Collision,1,No Further Action,0.0,No Further Action
+2026,17,Singapore,S,Sprint,Lance Stroll,Aston Martin,Causing a Collision,1,No Further Action,0.0,No Further Action
+2026,17,Singapore,S,Sprint,Arvid Lindblad,Racing Bulls,Unsafe Act,0,No Further Action,0.0,No Further Action
+2026,17,Singapore,S,Sprint,Alexander Albon,Williams,Causing a Collision,1,No Further Action,0.0,No Further Action
+2026,17,Singapore,S,Sprint,Valtteri Bottas,Cadillac,Causing a Collision,1,No Further Action,0.0,No Further Action
+2026,17,Singapore,S,Sprint,Oscar Piastri,McLaren,Causing a Collision,1,No Further Action,0.0,No Further Action
+2026,17,Singapore,S,Sprint,Lando Norris,McLaren,Causing a Collision,1,No Further Action,0.0,No Further Action
+2026,17,Singapore,S,Sprint,Oliver Bearman,Haas,Failure to Follow Race Director Instructions,0,No Further Action,0.0,No Further Action
+2026,17,Singapore,Q,Qualifying,Nico Hulkenberg,Audi,Impeding,1,No Further Action,0.0,No Further Action
+2026,17,Singapore,Pre-Race,Pre-Race,Lance Stroll,Aston Martin,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2026,17,Singapore,R,Race,Lewis Hamilton,Ferrari,Leaving the Track and Gaining an Advantage,1,No Further Action,0.0,No Further Action
+2026,18,United States,FP2,Practice,George Russell,Mercedes,Forcing Another Car Off the Track,1,No Further Action,0.0,No Further Action
+2026,18,United States,FP3,Practice,Nico Hulkenberg,Audi,Pit Lane Incident,1,No Further Action,0.0,No Further Action
+2026,18,United States,FP3,Practice,Isack Hadjar,Red Bull,Driving Erratically,1,Warning,0.0,Warning/Reprimand
+2026,18,United States,FP3,Practice,Gabriel Bortoleto,Audi,Impeding,1,Warning,0.0,Warning/Reprimand
+2026,18,United States,R,Race,Gabriel Bortoleto,Audi,Leaving the Track and Gaining an Advantage,1,No Further Action,0.0,No Further Action
+2026,18,United States,R,Race,Oliver Bearman,Haas,Causing a Collision,1,Time Penalty,10.0,10s Penalty
+2026,18,United States,R,Race,George Russell,Mercedes,Leaving the Track and Gaining an Advantage,1,Time Penalty,5.0,5s Penalty
+2026,19,Mexico,FP1,Practice,Freddie Slater,Audi,Unsafe Release,0,Fine,0.0,Fine
+2026,19,Mexico,FP2,Practice,Gabriel Bortoleto,Audi,Technical Infringement,0,Fine,0.0,Fine
+2026,19,Mexico,FP2,Practice,Max Verstappen,Red Bull,Dangerous Driving,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2026,19,Mexico,FP2,Practice,Liam Lawson,Racing Bulls,Dangerous Driving,1,"Grid Penalty, Penalty Points",0.0,Grid Penalty
+2026,19,Mexico,FP1,Practice,Isack Hadjar,Red Bull,Misconduct,0,Warning,0.0,Warning/Reprimand
+2026,19,Mexico,Q,Qualifying,Fernando Alonso,Aston Martin,Unsafe Act,0,Reprimand,0.0,Warning/Reprimand
+2026,19,Mexico,Q,Qualifying,Carlos Sainz,Williams,Failure to Follow Race Director Instructions,0,Warning,0.0,Warning/Reprimand
+2026,19,Mexico,Q,Qualifying,Isack Hadjar,Red Bull,Failure to Follow Race Director Instructions,0,Reprimand,0.0,Warning/Reprimand
+2026,19,Mexico,Q,Qualifying,Liam Lawson,Racing Bulls,Technical Infringement,0,DSQ,0.0,Drive Through/Stop-Go/DSQ
+2026,19,Mexico,Pre-Race,Pre-Race,Carlos Sainz,Williams,Pit Lane Speeding,0,Fine,0.0,Fine
+2026,19,Mexico,R,Race,Charles Leclerc,Ferrari,Leaving the Track and Gaining an Advantage,1,Time Penalty,5.0,5s Penalty
+2026,19,Mexico,R,Race,George Russell,Mercedes,Causing a Collision,1,Time Penalty,10.0,10s Penalty
+2026,19,Mexico,R,Race,Sergio Perez,Cadillac,Pit Lane Speeding,0,Time Penalty,5.0,5s Penalty
+2026,19,Mexico,R,Race,Nico Hulkenberg,Audi,Causing a Collision,1,Time Penalty,10.0,10s Penalty
+2026,19,Mexico,R,Race,Pierre Gasly,Alpine,Leaving the Track and Gaining an Advantage,1,No Further Action,0.0,No Further Action
+2026,19,Mexico,R,Race,Oscar Piastri,McLaren,Causing a Collision,1,Time Penalty,10.0,10s Penalty
+2026,19,Mexico,R,Race,George Russell,Mercedes,Media/Fan Activity Infringement,0,Fine,0.0,Fine
+2026,19,Mexico,R,Race,Pierre Gasly,Alpine,Yellow Flag Infringement,0,"10 Second Stop and Go, Penalty Points",0.0,Drive Through/Stop-Go/DSQ
+2026,19,Mexico,R,Race,Franco Colapinto,Alpine,Yellow Flag Infringement,0,"Time Penalty, Penalty Points",10.0,10s Penalty
+2026,20,Brazil,FP1,Practice,Franco Colapinto,Alpine,Pit Lane Speeding,0,Fine,0.0,Fine
+2026,20,Brazil,FP2,Practice,Rafael Camara,Haas,Impeding,1,Reprimand,0.0,Warning/Reprimand
